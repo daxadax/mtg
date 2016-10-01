@@ -29,10 +29,12 @@ module Mtg
         {
           name: name,
           cmc: response['cmc'],
+          colors: response['colors'],
           cost: response['cost'],
           is_foil: is_foil,
           multiverse_id: overwrite_id || set_attributes['multiverse_id'],
           quantity: quantity,
+          rarity: set_attributes.fetch('rarity') { no_set_found },
           set: set_attributes.fetch('set') { no_set_found },
           set_id: set_id,
           subtypes: response['subtypes'],

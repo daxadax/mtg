@@ -509,7 +509,7 @@
 2,"Rouse the Mob","JOU",false
 2,"Satyr Hoplite","JOU",false
 2,"Eagle of the Watch","JOU",false
-2,"Ephara's Radiance","JOU",false
+2,"Ephara's Radiance","BNG",false
 2,"Nyx Infusion","JOU",false
 2,"Stonewise Fortifier","JOU",false
 2,"Lagonna-Band Trailblazer","JOU",false
@@ -680,7 +680,6 @@
 1,"Advice from the Fae","SHM",false
 1,"Sinking Feeling","SHM",false
 1,"Briarberry Cohort","SHM",false
-1,"Gilt-Leaf Seer","SHM",false
 1,"Smash to Smithereens","SHM",false
 1,"Hungry Spriggan","SHM",false
 1,"Juvenile Gloomwidow","SHM",false
@@ -1091,7 +1090,7 @@
 1,"Crypsis","BNG",false
 1,"Pharagax Giant","BNG",false
 1,"Marshmist Titan","BNG",false
-1,"March of the Returned","BNG",false
+1,"March of the Returned","THS",false
 1,"Setessan Starbreaker","BNG",false
 1,"Bolt of Keranos","BNG",false
 1,"Weight of the Underworld","BNG",false
@@ -1425,7 +1424,7 @@
 1,"Circle of Affliction","PLC",false
 1,"Saltblast","PLC",false
 1,"Revered Dead","PLC",false
-1,"Spirit en-Dal","PLC",false
+1,"Spirit en-Dal","FUT",false
 1,"Heat Ray","USG",false
 1,"Despondency","USG",false
 1,"Shower of Sparks","USG",false
@@ -1526,12 +1525,12 @@
 1,"Font of Return","JOU",false
 1,"Bloodcrazed Hoplite","JOU",false
 1,"Cast into Darkness","JOU",false
-1,"Mortal's Ardor","JOU",false
-1,"Loyal Pegasus","JOU",false
+1,"Mortal's Ardor","BNG",false
+1,"Loyal Pegasus","BNG",false
 1,"Stonewise Fortifier","JOU",false
-1,"Elite Skirmisher","JOU",false
-1,"Griffin Dreamfinder","JOU",false
-1,"Hold at Bay","JOU",false
+1,"Elite Skirmisher","BNG",false
+1,"Griffin Dreamfinder","BNG",false
+1,"Hold at Bay","BNG",false
 1,"Cruel Feeding","JOU",false
 1,"Font of Vigor","JOU",false
 1,"Lagonna-Band Elder","THS",false
@@ -1641,5 +1640,5 @@
 1,"Heartstabber Mosquito","ZEN",false
 1,"Kor Cartographer","ZEN",false
 1,"Rotting Mastodon","KTK",false
-1,"Shoulder to Shoulder","KTK",false
+1,"Shoulder to Shoulder","OGW",false
 1,"Mardu Hateblade","KTK",false
