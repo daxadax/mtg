@@ -13,11 +13,11 @@ module Mtg
       new(requested_sets).update
     end
 
-    def self.info
+    def self.info(requested_sets)
       new(requested_sets).info
     end
 
-    def self.merge_duplicates
+    def self.merge_duplicates(requested_sets)
       new(requested_sets).merge_duplicates
     end
 
@@ -26,7 +26,7 @@ module Mtg
       return
     end
 
-    def initialize(requested_sets)
+    def initialize(requested_sets = Array.new)
       @requested_sets = requested_sets
       @errors = []
     end
@@ -47,7 +47,13 @@ module Mtg
         sum
       end
 
+      rarities = collection.map(&:rarity)
+
       pp "#{result[:count]} cards worth $#{result[:price]}", :new_line
+      pp "#{rarities.count('common')} commons"
+      pp "#{rarities.count('uncommon')} uncommons"
+      pp "#{rarities.count('rare')} rares"
+      pp "#{rarities.count('mythic')} mythic rares", :new_line
     end
 
     private
@@ -89,7 +95,6 @@ module Mtg
       cards.reject(&:empty?)
     end
 
-
     def manifest
       data = CSV.read(source_file, headers: true)
       return data if requested_sets.empty?
@@ -97,13 +102,21 @@ module Mtg
     end
 
     def collection
-      JSON.parse(File.read(target_file)).map do |card|
-        Mtg::Card.new(JSON.parse(card))
+      sets = requested_sets.empty? ? all_sets : requested_sets
+
+      sets.flat_map do |set|
+        file = File.read(path_to_file("collection/#{set}.json"))
+        JSON.parse(file).map do |card|
+          Mtg::Card.new(JSON.parse(card))
+        end
       end
     end
 
-    def target_file
-      path_to_file('collection.json')
+    def all_sets
+      Dir['collection/*.json'].map do |f|
+        f.sub!('collection/', '')
+        f.sub!('.json', '')
+      end
     end
 
     def source_file
