@@ -1,1644 +1,1698 @@
 "quantity","name","set_id","is_foil","multiverse_id","store_name"
-11,"Marsh Threader","WWK",false
 11,"Embodiment of Spring","KTK",false
-10,"Lys Alana Bowmaster","MOR",false
+11,"Marsh Threader","WWK",false
 10,"Smite the Monstrous","KTK",false
-9,"Tundra Wolves","6ED",false
-9,"Chained Throatseeker","NPH",false
-9,"Force Away","KTK",false
+10,"Lys Alana Bowmaster","MOR",false
 9,"Mardu Hordechief","KTK",false
-8,"Willow Faerie","HML",false,2983,"willow-faerie-version-2"
-8,"Shade of Trokair","PLC",false
-8,"Wetland Sambar","KTK",false
+9,"Force Away","KTK",false
+9,"Chained Throatseeker","NPH",false
+9,"Tundra Wolves","6ED",false
 8,"Paralyzing Grasp","ZEN",false
-7,"Duty-Bound Dead","M13",false
-7,"Scaldkin","KTK",false
-7,"Naturalize","KTK",false
-7,"Scout the Borders","KTK",false
-7,"Arrow Storm","KTK",false
-7,"Leaping Master","KTK",false
-7,"Spark Jolt","THS",false
-7,"Sultai Scavenger","KTK",false
-7,"Rite of the Serpent","KTK",false
-7,"Rakshasa's Secret","KTK",false
+8,"Wetland Sambar","KTK",false
+8,"Shade of Trokair","PLC",false
+8,"Willow Faerie","HML",false,2983,"willow-faerie-version-2"
 7,"Kheru Dreadmaw","KTK",false
-6,"Ranger's Guile","M15",false
-6,"Taigam's Scheming","KTK",false
-6,"Jeskai Windscout","KTK",false
-6,"Crippling Chill","KTK",false
-6,"Highland Game","KTK",false
-6,"Swift Kick","KTK",false
-6,"Bloodfire Mentor","KTK",false
-6,"Act of Treason","KTK",false
-6,"Elvish Warrior","MOR",false
-6,"Winnower Patrol","MOR",false
-6,"Triton Shorethief","THS",false
-6,"Felhide Minotaur","THS",false
-6,"Caller of Gales","ZEN",false
-6,"About Face","ULG",false
+7,"Rakshasa's Secret","KTK",false
+7,"Rite of the Serpent","KTK",false
+7,"Sultai Scavenger","KTK",false
+7,"Spark Jolt","THS",false
+7,"Leaping Master","KTK",false
+7,"Arrow Storm","KTK",false
+7,"Scout the Borders","KTK",false
+7,"Naturalize","KTK",false
+7,"Scaldkin","KTK",false
+7,"Duty-Bound Dead","M13",false
+6,"Boon of Emrakul","EMN",false
 6,"Jeskai Student","KTK",false
-5,"Ray of Revelation","DKA",false
-5,"Cinder Pyromancer","EVE",false
-5,"Safehold Sentry","SHM",false
-5,"Coordinated Barrage","MOR",false
-5,"Puncture Bolt","SHM",false
-5,"Searing Spear","M13",false
-5,"Defeat","DTK",false
-5,"Singing Bell Strike","KTK",false
-5,"Shatter","KTK",false
-5,"Barrage of Boulders","KTK",false
-5,"Cancel","KTK",false
-5,"Archers' Parapet","KTK",false
-5,"Dragonscale Boon","KTK",false
-5,"Bloodfire Expert","KTK",false
-5,"Smoke Teller","KTK",false
-5,"Sigiled Starfish","JOU",false
-5,"Voyage's End","THS",false
-5,"Disciple of Phenax","THS",false
-5,"Thassa's Bounty","THS",false
-5,"Boon of Erebos","THS",false
-5,"Blood-Toll Harpy","THS",false
-5,"Lash of the Whip","THS",false
-5,"Twisted Experiment","UDS",false
-5,"Ainok Bond-Kin","KTK",false
-5,"Firehoof Cavalry","KTK",false
-5,"Bitter Revelation","KTK",false
-5,"Erase","KTK",false
+6,"About Face","ULG",false
+6,"Caller of Gales","ZEN",false
+6,"Felhide Minotaur","THS",false
+6,"Triton Shorethief","THS",false
+6,"Winnower Patrol","MOR",false
+6,"Elvish Warrior","MOR",false
+6,"Act of Treason","KTK",false
+6,"Bloodfire Mentor","KTK",false
+6,"Swift Kick","KTK",false
+6,"Highland Game","KTK",false
+6,"Crippling Chill","KTK",false
+6,"Jeskai Windscout","KTK",false
+6,"Taigam's Scheming","KTK",false
+6,"Ranger's Guile","M15",false
+5,"Galvanic Bombardment","EMN",false
 5,"War Behemoth","KTK",false
-4,"Join the Ranks","WWK",false
-4,"Giant Growth","M11",false
-4,"Judge Unworthy","FUT",false
-4,"Puncture Blast","EVE",false
-4,"Eyeblight Assassin","ORI",false
-4,"Forfend","MOR",false
-4,"Devoted Druid","SHM",false
-4,"Presence of Gond","SHM",false
-4,"Rustrazor Butcher","SHM",false
-4,"Nurturer Initiate","SHM",false
-4,"Power of Fire","SHM",false
-4,"Burn Trail","SHM",false
-4,"Cerulean Wisps","SHM",false
-4,"Immolation","4ED",false
-4,"Fortified Area","4ED",false
-4,"Blood Lust","4ED",false
-4,"Energy Tap","4ED",false
-4,"Power Sink","3ED",false
-4,"Rampant Growth","6ED",false
-4,"Hero's Resolve","6ED",false
-4,"Kjeldoran Dead","6ED",false
-4,"Memory Lapse","6ED",false
-4,"Distress","M12",false
-4,"Liliana's Shade","M13",false
-4,"Weave Fate","KTK",false
-4,"Trumpet Blast","KTK",false
-4,"Summit Prowler","KTK",false
-4,"Monastery Flock","KTK",false
-4,"Sagu Archer","KTK",false
-4,"Valley Dasher","KTK",false
-4,"Bring Low","KTK",false
-4,"Kin-Tree Warden","KTK",false
-4,"Veiling Oddity","PLC",false
-4,"Evolution Charm","PLC",false
-4,"Merfolk Thaumaturgist","PLC",false
-4,"Pendrell Flux","USG",false
-4,"Deglamer","MOR",false
-4,"Stingmoggie","MOR",false
-4,"Sunflare Shaman","MOR",false
-4,"Mudbutton Clanger","MOR",false
-4,"Forsaken Drifters","BNG",false
-4,"Stratus Walk","BNG",false
-4,"Pheres-Band Thunderhoof","JOU",false
-4,"Aerial Formation","JOU",false
-4,"Loathsome Catoblepas","THS",false
-4,"Fleshmad Steed","THS",false
-4,"Fleeting Distraction","ROE",false
-4,"Ogre Sentry","ROE",false
-4,"Lavastep Raider","BFZ",false
-4,"Intervene","ULG",false
-4,"Slow Motion","ULG",false
-4,"Crop Rotation","ULG",false
-4,"Expendable Troops","ULG",false
-4,"Opal Champion","ULG",false
-4,"Rush of Battle","KTK",false
-4,"Disowned Ancestor","KTK",false
-4,"Molting Snakeskin","KTK",false
-4,"Throttle","KTK",false
-4,"Kill Shot","KTK",false
+5,"Erase","KTK",false
+5,"Bitter Revelation","KTK",false
+5,"Firehoof Cavalry","KTK",false
+5,"Ainok Bond-Kin","KTK",false
+5,"Twisted Experiment","UDS",false
+5,"Lash of the Whip","THS",false
+5,"Blood-Toll Harpy","THS",false
+5,"Boon of Erebos","THS",false
+5,"Thassa's Bounty","THS",false
+5,"Disciple of Phenax","THS",false
+5,"Voyage's End","THS",false
+5,"Sigiled Starfish","JOU",false
+5,"Smoke Teller","KTK",false
+5,"Bloodfire Expert","KTK",false
+5,"Dragonscale Boon","KTK",false
+5,"Archers' Parapet","KTK",false
+5,"Cancel","KTK",false
+5,"Barrage of Boulders","KTK",false
+5,"Shatter","KTK",false
+5,"Singing Bell Strike","KTK",false
+5,"Defeat","DTK",false
+5,"Searing Spear","M13",false
+5,"Puncture Bolt","SHM",false
+5,"Coordinated Barrage","MOR",false
+5,"Safehold Sentry","SHM",false
+5,"Cinder Pyromancer","EVE",false
+5,"Ray of Revelation","DKA",false
+4,"Laboratory Brute","EMN",false
 4,"Sidisi's Pet","KTK",false
-3,"Order of the Sacred Bell","CHK",false
-3,"Renewal","HML",false
-3,"Willow Faerie","HML",false,2982
-3,"Gilt-Leaf Seer","LRW",false
-3,"Elvish Branchbender","LRW",false
-3,"Groundswell","WWK",false
-3,"Fledgling Griffin","WWK",false
-3,"Earthlore","ICE",false
-3,"Panic","ICE",false
-3,"Prismatic Ward","ICE",false
-3,"Heartlash Cinder","EVE",false
-3,"Fire at Will","EVE",false
-3,"Aerie Ouphes","EVE",false
-3,"Rain of Rust","5DN",false
-3,"Mine Excavation","SHM",false
-3,"Woeleecher","SHM",false
-3,"Last Breath","SHM",false
-3,"Whitemane Lion","PLC",false
-3,"Pallid Mycoderm","PLC",false
-3,"Symbiosis","USG",false
-3,"Raze","USG",false
-3,"Expunge","USG",false
-3,"Reality Hemorrhage","OGW",false
-3,"Oblivion Strike","OGW",false
-3,"Shoulder to Shoulder","OGW",false
-3,"Psychic Miasma","SOM",false
-3,"Vulshok Heartstoker","SOM",false
-3,"Fume Spitter","SOM",false
-3,"Bloodshed Fever","SHM",false
-3,"Mudbrawler Cohort","SHM",false
-3,"Intimidator Initiate","SHM",false
-3,"Gloomwidow's Feast","SHM",false
-3,"Rabid Bite","SOI",false
-3,"Fallow Earth","6ED",false
-3,"Summer Bloom","6ED",false
-3,"Unsummon","6ED",false
-3,"Spell Blast","6ED",false
-3,"Remove Soul","6ED",false
-3,"Counterspell","6ED",false
-3,"Fling","M12",false
-3,"Gladecover Scout","M14",false
-3,"Satyr Wayfinder","M15",false
-3,"Ainok Artillerist","DTK",false
-3,"Revealing Wind","DTK",false
-3,"Tread Upon","DTK",false
-3,"Glint","DTK",false
-3,"Kolaghan Aspirant","DTK",false
-3,"Disdainful Stroke","KTK",false
-3,"Tormenting Voice","KTK",false
-3,"Whirlwind Adept","KTK",false
-3,"Savage Punch","KTK",false
-3,"Rabid Bloodsucker","ORI",false
-3,"Nightsnare","ORI",false
-3,"Dark Dabbling","ORI",false
-3,"Infernal Scarring","ORI",false
-3,"Akroan Jailer","ORI",false
-3,"Kytheon's Tactics","ORI",false
-3,"Enshrouding Mist","ORI",false
-3,"Vine Snare","ORI",false
-3,"Fertilid","MOR",false
-3,"Ambassador Oak","MOR",false
-3,"Shinewend","MOR",false
-3,"Sage's Dousing","MOR",false
-3,"Mortal's Resolve","BNG",false
-3,"Snake of the Golden Grove","BNG",false
-3,"Claim of Erebos","BNG",false
-3,"Akroan Mastiff","JOU",false
-3,"Oreskos Swiftclaw","JOU",false
-3,"Nature's Panoply","JOU",false
-3,"Vaporkin","THS",false
-3,"Returned Centaur","THS",false
-3,"Asphodel Wanderer","THS",false
-3,"Cavern Lampad","THS",false
-3,"Setessan Griffin","THS",false
-3,"Traveling Philosopher","THS",false
-3,"Time to Feed","THS",false
-3,"Crosstown Courier","RTR",false
-3,"Doomed Traveler","ISD",false
-3,"Forbidden Alchemy","ISD",false
-3,"Sanctum Gargoyle","ALA",false
-3,"Excommunicate","ALA",false
-3,"Hissing Iguanar","ALA",false
-3,"Knight of the Skyward Eye","ALA",false
-3,"Cancel","ALA",false
-3,"Salvage Slasher","CON",false
-3,"Faerie Mechanist","CON",false
-3,"Essence Feed","ROE",false
-3,"Zof Shade","ROE",false
-3,"Deprive","ROE",false
-3,"Grotag Siege-Runner","ROE",false
-3,"Overgrown Battlement","ROE",false
-3,"Living Destiny","ROE",false
-3,"Regress","ROE",false
-3,"Ondu Giant","ROE",false
-3,"See Beyond","ROE",false
-3,"Sure Strike","BFZ",false
-3,"Lethargy Trap","ZEN",false
-3,"Refocus","FRF",false
-3,"Fierce Invocation","FRF",false
-3,"Formless Nurturing","FRF",false
-3,"Yavimaya Elder","UDS",false
-3,"Fog","4ED",false
-3,"Holy Strength","4ED",false
-3,"Osai Vultures","4ED",false
-3,"Evil Eye of Orms-by-Gore","6ED",false
-3,"Artful Maneuver","DTK",false
-3,"Lightwalker","DTK",false
-3,"Tormented Angel","UDS",false
-3,"Field Surgeon","UDS",false
-3,"Defiant Strike","KTK",false
-3,"Sage-Eye Harrier","KTK",false
-3,"Alabaster Kirin","KTK",false
-3,"Krumar Bond-Kin","KTK",false
-3,"Mardu Skullhunter","KTK",false
-3,"Dutiful Return","KTK",false
-3,"Unyielding Krumar","KTK",false
-3,"Debilitating Injury","KTK",false
-3,"Salt Road Patrol","KTK",false
+4,"Kill Shot","KTK",false
+4,"Throttle","KTK",false
+4,"Molting Snakeskin","KTK",false
+4,"Disowned Ancestor","KTK",false
+4,"Rush of Battle","KTK",false
+4,"Opal Champion","ULG",false
+4,"Expendable Troops","ULG",false
+4,"Crop Rotation","ULG",false
+4,"Slow Motion","ULG",false
+4,"Intervene","ULG",false
+4,"Lavastep Raider","BFZ",false
+4,"Ogre Sentry","ROE",false
+4,"Fleeting Distraction","ROE",false
+4,"Fleshmad Steed","THS",false
+4,"Loathsome Catoblepas","THS",false
+4,"Aerial Formation","JOU",false
+4,"Pheres-Band Thunderhoof","JOU",false
+4,"Stratus Walk","BNG",false
+4,"Forsaken Drifters","BNG",false
+4,"Mudbutton Clanger","MOR",false
+4,"Sunflare Shaman","MOR",false
+4,"Stingmoggie","MOR",false
+4,"Deglamer","MOR",false
+4,"Pendrell Flux","USG",false
+4,"Merfolk Thaumaturgist","PLC",false
+4,"Evolution Charm","PLC",false
+4,"Veiling Oddity","PLC",false
+4,"Kin-Tree Warden","KTK",false
+4,"Bring Low","KTK",false
+4,"Valley Dasher","KTK",false
+4,"Sagu Archer","KTK",false
+4,"Monastery Flock","KTK",false
+4,"Summit Prowler","KTK",false
+4,"Trumpet Blast","KTK",false
+4,"Weave Fate","KTK",false
+4,"Liliana's Shade","M13",false
+4,"Distress","M12",false
+4,"Memory Lapse","6ED",false
+4,"Kjeldoran Dead","6ED",false
+4,"Hero's Resolve","6ED",false
+4,"Rampant Growth","6ED",false
+4,"Power Sink","3ED",false
+4,"Energy Tap","4ED",false
+4,"Blood Lust","4ED",false
+4,"Fortified Area","4ED",false
+4,"Immolation","4ED",false
+4,"Cerulean Wisps","SHM",false
+4,"Burn Trail","SHM",false
+4,"Power of Fire","SHM",false
+4,"Nurturer Initiate","SHM",false
+4,"Rustrazor Butcher","SHM",false
+4,"Presence of Gond","SHM",false
+4,"Devoted Druid","SHM",false
+4,"Forfend","MOR",false
+4,"Eyeblight Assassin","ORI",false
+4,"Puncture Blast","EVE",false
+4,"Judge Unworthy","FUT",false
+4,"Giant Growth","M11",false
+4,"Join the Ranks","WWK",false
+3,"Desperate Sentry","EMN",false
+3,"Field Creeper","EMN",false
+3,"Grapple with the Past","EMN",false
+3,"Gavony Unhallowed","EMN",false
+3,"Fortune's Favor","EMN",false
+3,"Somberwald Stag","EMN",false
+3,"Terrarion","EMN",false
+3,"Sigardian Priest","EMN",false
+3,"Choking Restraints","EMN",false
+3,"Make Mischief","EMN",false
+3,"Dawn Gryff","EMN",false
+3,"Succumb to Temptation","EMN",false
+3,"Certain Death","EMN",false
+3,"Prophetic Ravings","EMN",false
 3,"Feat of Resistance","KTK",false
-2,"Fire Drake","DRK",false
-2,"Venerable Kumo","CHK",false
-2,"Feral Deceiver","CHK",false
-2,"Kami of the Hunt","CHK",false
-2,"Quiet Purity","CHK",false
-2,"Fungal Bloom","FEM",false
-2,"Spectral Bears","HML",false
-2,"Consuming Bonfire","LRW",false
-2,"Warren-Scourge Elf","LRW",false
-2,"Grappler Spider","WWK",false
-2,"Whiptail Moloch","DIS",false
-2,"Tranquility","7ED",false
-2,"Wildwood Rebirth","GTC",false
-2,"Thraben Inspector","SOI",false
-2,"Devilthorn Fox","SOI",false
-2,"Inquisitor's Ox","SOI",false
-2,"Strength of Arms","SOI",false
-2,"Gossamer Chains","VIS",false
-2,"Youthful Knight","10E",false
-2,"Lure","10E",false
-2,"Sporoloth Ancient","FUT",false
-2,"Blade of the Sixth Pride","FUT",false
-2,"Henchfiend of Ukor","FUT",false
-2,"Llanowar Augur","FUT",false
-2,"Quiet Disrepair","FUT",false
-2,"Grave Scrabbler","FUT",false
-2,"Shield Bearer","ICE",false
-2,"Shatter","ICE",false
-2,"Seraph","ICE",false
-2,"Cenn's Enlistment","EVE",false
-2,"Hotheaded Giant","EVE",false
-2,"Wickerbough Elder","EVE",false
-2,"Nettle Sentinel","EVE",false
-2,"Monstrify","EVE",false
-2,"Soltari Foot Soldier","TMP",false
-2,"Rushwood Herbalist","MMQ",false
-2,"Silt Crawler","PCY",false
-2,"Drooling Ogre","DST",false
-2,"Echoing Calm","DST",false
-2,"Sanctum Gargoyle","ARC",false
-2,"Stand Firm","5DN",false
-2,"Fists of Ironwood","RAV",false
-2,"Dogpile","RAV",false
-2,"Brainspoil","RAV",false
-2,"Steamcore Weird","GPT",false
-2,"Psychic Barrier","NPH",false
-2,"Impaler Shrike","NPH",false
-2,"Blistering Dieflyn","SHM",false
-2,"Inescapable Brute","SHM",false
-2,"Rune-Cervin Rider","SHM",false
-2,"Apothecary Initiate","SHM",false
-2,"Farhaven Elf","SHM",false
-2,"Ember Gale","SHM",false
-2,"Dream's Grip","MRD",false
-2,"Galvanic Bombardment","EMN",false
-2,"Prophetic Ravings","EMN",false
-2,"Succumb to Temptation","EMN",false
-2,"Sleep Paralysis","SOI",false
-2,"Macabre Waltz","SOI",false
-2,"Twins of Maurer Estate","SOI",false
-2,"Bloodmad Vampire","SOI",false
-2,"Uncaged Fury","SOI",false
-2,"Loam Dryad","SOI",false
-2,"Crow of Dark Tidings","SOI",false
-2,"Moldgraf Scavenger","SOI",false
-2,"Byway Courier","SOI",false
-2,"Root Out","SOI",false
-2,"Just the Wind","SOI",false
-2,"Pieces of the Puzzle","SOI",false
-2,"Unsummon","4ED",false
-2,"Fog","6ED",false
-2,"Untamed Wilds","6ED",false
-2,"Robe of Mirrors","10E",false
-2,"Cancel","10E",false
-2,"Burst of Speed","M10",false
-2,"Convincing Mirage","M10",false
-2,"Stormfront Pegasus","M10",false
-2,"Blinding Mage","M10",false
-2,"Soul Warden","M10",false
-2,"Holy Strength","M10",false
-2,"Merfolk Looter","M10",false
-2,"Hideous Visage","M12",false
-2,"Taste of Blood","M12",false
-2,"Mind Rot","M12",false
-2,"Warpath Ghoul","M12",false
-2,"Wild Guess","M13",false
-2,"Essence Drain","M13",false
-2,"Peel from Reality","M15",false
-2,"Black Cat","M15",false
-2,"Flesh to Dust","M15",false
-2,"Necrobite","M15",false
-2,"Hunt the Weak","M15",false
-2,"Naturalize","M15",false
-2,"Ancient Carp","DTK",false
-2,"Dragon-Scarred Bear","DTK",false
-2,"Updraft Elemental","DTK",false
-2,"Ojutai's Summons","DTK",false
-2,"Wandering Tombshell","DTK",false
-2,"Sidisi's Faithful","DTK",false
-2,"Mystic Meditation","DTK",false
-2,"Colossodon Yearling","DTK",false
-2,"Pinion Feast","DTK",false
-2,"Kindled Fury","DTK",false
-2,"Reckless Imp","DTK",false
-2,"Mind Rot","DTK",false
-2,"Tail Slash","DTK",false
-2,"Treasure Cruise","KTK",false
-2,"Awaken the Bear","KTK",false
-2,"Alpine Grizzly","KTK",false
-2,"Winterflame","KTK",false
-2,"Aphetto Dredging","ONS",false
-2,"Shock","ONS",false
-2,"Reality Acid","PLC",false
-2,"Venarian Glimmer","PLC",false
-2,"Essence Warden","PLC",false
-2,"Aven Riftwatcher","PLC",false
-2,"Sunlance","PLC",false
-2,"Seal of Primordium","PLC",false
-2,"Power Sink","MIR",false
-2,"Hush","USG",false
-2,"Opal Gargoyle","USG",false
-2,"Opal Caryatid","USG",false
-2,"Catalog","USG",false
-2,"Annul","USG",false
-2,"Disperse","ORI",false
-2,"Watercourser","ORI",false
-2,"Timberpack Wolf","ORI",false
-2,"Hitchclaw Recluse","ORI",false
-2,"Dream Thief","EVE",false
-2,"Fire Juggler","MOR",false
-2,"Shard Volley","MOR",false
-2,"Karametra's Favor","BNG",false
-2,"Swordwise Centaur","BNG",false
-2,"Charging Badger","BNG",false
-2,"Scouring Sands","BNG",false
-2,"Cyclops of One-Eyed Pass","BNG",false
-2,"Servant of Tymaret","BNG",false
-2,"Necrobite","BNG",false
-2,"Felhide Brawler","BNG",false
-2,"Grisly Transformation","BNG",false
-2,"Nullify","BNG",false
-2,"Divination","BNG",false
-2,"Kruphix's Insight","JOU",false
-2,"Renowned Weaver","JOU",false
-2,"Market Festival","JOU",false
-2,"Font of Fortunes","JOU",false
-2,"Triton Shorestalker","JOU",false
-2,"War-Wing Siren","JOU",false
-2,"Rise of Eagles","JOU",false
-2,"Fate Foretold","THS",false
-2,"Akroan Crusader","THS",false
-2,"Pharika's Cure","THS",false
-2,"Baleful Eidolon","THS",false
-2,"Gray Merchant of Asphodel","THS",false
-2,"Portent of Betrayal","THS",false
-2,"Griptide","THS",false
-2,"Fade into Antiquity","THS",false
-2,"Defend the Hearth","THS",false
-2,"March of the Returned","THS",false
-2,"Staunch-Hearted Warrior","THS",false
-2,"Scourgemark","THS",false
-2,"Spawn of Rix Maadi","RTR",false
-2,"Cremate","RTR",false
-2,"Launch Party","RTR",false
-2,"Inspiration","RTR",false
-2,"Destroy the Evidence","RTR",false
-2,"Jund Panorama","ALA",false
-2,"Mosstodon","ALA",false
-2,"Wild Nacatl","ALA",false
-2,"Etherium Sculptor","ALA",false
-2,"Beacon Behemoth","CON",false
-2,"Demonic Appetite","ROE",false
-2,"Sporecap Spider","ROE",false
-2,"Battle Rampart","ROE",false
-2,"Kiln Fiend","ROE",false
-2,"Aura Finesse","ROE",false
-2,"Lay Bare","ROE",false
-2,"Anticipate","BFZ",false
-2,"Nettle Drone","BFZ",false
-2,"Silent Skimmer","BFZ",false
-2,"Grave Birthing","BFZ",false
-2,"Spell Shrivel","BFZ",false
-2,"Wave-Wing Elemental","BFZ",false
-2,"Eldrazi Skyspawner","BFZ",false
-2,"Salvage Drone","BFZ",false
-2,"Murk Strider","BFZ",false
-2,"Eyeless Watcher","BFZ",false
-2,"Voracious Null","BFZ",false
-2,"Joraga Bard","ZEN",false
-2,"Scythe Tiger","ZEN",false
-2,"Maw of Kozilek","OGW",false
-2,"Boulder Salvo","OGW",false
-2,"Zulaport Chainmage","OGW",false
-2,"Stalking Drone","OGW",false
-2,"Saddleback Lagac","OGW",false
-2,"Natural State","OGW",false
-2,"Netcaster Spider","OGW",false
-2,"Loam Larva","OGW",false
-2,"Vampire Envoy","OGW",false
-2,"Unnatural Endurance","OGW",false
-2,"Witness the End","OGW",false
-2,"Makindi Aeronaut","OGW",false
-2,"Kor Scythemaster","OGW",false
-2,"Abstruse Interference","OGW",false
-2,"Cultivator Drone","OGW",false
-2,"Sweep Away","OGW",false
-2,"Umara Entangler","OGW",false
-2,"Gravity Negator","OGW",false
-2,"Comparative Analysis","OGW",false
-2,"Containment Membrane","OGW",false
-2,"Jeskai Sage","FRF",false
-2,"Aven Surveyor","FRF",false
-2,"Enhanced Awareness","FRF",false
-2,"Ainok Guide","FRF",false
-2,"Hunt the Weak","FRF",false
-2,"Bathe in Dragonfire","FRF",false
-2,"Lightning Shrieker","FRF",false
-2,"Sultai Emissary","FRF",false
-2,"Gore Swine","FRF",false
-2,"Miscalculation","ULG",false
-2,"Multani's Presence","ULG",false
-2,"Snap","ULG",false
-2,"Swat","ULG",false
-2,"Fog of Gnats","ULG",false
-2,"Tel-Jilad Fallen","SOM",false
-2,"Ferrovore","SOM",false
-2,"Shatter","SOM",false
-2,"Scoria Elemental","SOM",false
-2,"Kuldotha Rebirth","SOM",false
-2,"Turn to Slag","SOM",false
-2,"Carapace Forger","SOM",false
-2,"Ezuri's Archers","SOM",false
-2,"Soul Parry","SOM",false
-2,"Instill Infection","SOM",false
-2,"Tainted Strike","SOM",false
-2,"Screeching Silcaw","SOM",false
-2,"Vault Skyward","SOM",false
-2,"Steady Progress","SOM",false
-2,"Bonds of Quicksilver","SOM",false
-2,"Plated Seastrider","SOM",false
-2,"Turn Aside","SOM",false
-2,"Chime of Night","UDS",false
-2,"Shock","M14",false
-2,"Cleric of the Forward Order","ORI",false
-2,"Charging Griffin","ORI",false
-2,"Stalwart Aven","ORI",false
-2,"Mighty Leap","ORI",false
-2,"Touch of Moonglove","ORI",false
-2,"Titan's Strength","ORI",false
-2,"Deadbridge Shaman","ORI",false
-2,"Undead Servant","ORI",false
-2,"Auramancer","ORI",false
-2,"Weight of Conscience","MOR",false
-2,"Graceful Reprieve","MOR",false
-2,"Noggin Whack","MOR",false
-2,"Squeaking Pie Grubfellows","MOR",false
-2,"Festercreep","MOR",false
-2,"Changeling Sentinel","MOR",false
-2,"Dreadbringer Lampads","JOU",false
-2,"Feast of Dreams","JOU",false
-2,"Sigiled Skink","JOU",false
-2,"Lightning Diadem","JOU",false
-2,"Rouse the Mob","JOU",false
-2,"Satyr Hoplite","JOU",false
-2,"Eagle of the Watch","JOU",false
-2,"Ephara's Radiance","BNG",false
-2,"Nyx Infusion","JOU",false
-2,"Stonewise Fortifier","JOU",false
-2,"Lagonna-Band Trailblazer","JOU",false
-2,"Leonin Snarecaster","THS",false
-2,"Chosen by Heliod","THS",false
-2,"Rootborn Defenses","RTR",false
-2,"Keening Apparition","RTR",false
-2,"Bloodcrazed Neonate","ISD",false
-2,"Volcanic Submersion","ALA",false
-2,"Incurable Ogre","ALA",false
-2,"Dispeller's Capsule","ALA",false
-2,"Gleam of Resistance","CON",false
-2,"Fiery Fall","CON",false
-2,"Aven Skirmisher","FRF",false
-2,"Sandsteppe Outcast","FRF",false
-2,"Soul Summons","FRF",false
-2,"Dragon Bell Monk","FRF",false
-2,"Goblin Balloon Brigade","4ED",false
-2,"Wall of Dust","4ED",false
-2,"Stone Rain","4ED",false
-2,"Fissure","4ED",false
-2,"Fatal Blow","6ED",false
-2,"Sabretooth Tiger","6ED",false
-2,"Lightning Blast","6ED",false
-2,"Shock","6ED",false
-2,"Boil","6ED",false
-2,"Smite","ROE",false
-2,"Kor Line-Slinger","ROE",false
-2,"Makindi Griffin","ROE",false
-2,"Guard Duty","ROE",false
-2,"Smite the Monstrous","BFZ",false
-2,"Courier Griffin","BFZ",false
-2,"Aven Tactician","DTK",false
-2,"Fate Forgotten","DTK",false
-2,"Enduring Victory","DTK",false
-2,"Territorial Roc","DTK",false
-2,"Capashen Templar","UDS",false
+3,"Salt Road Patrol","KTK",false
+3,"Debilitating Injury","KTK",false
+3,"Unyielding Krumar","KTK",false
+3,"Dutiful Return","KTK",false
+3,"Mardu Skullhunter","KTK",false
+3,"Krumar Bond-Kin","KTK",false
+3,"Alabaster Kirin","KTK",false
+3,"Sage-Eye Harrier","KTK",false
+3,"Defiant Strike","KTK",false
+3,"Field Surgeon","UDS",false
+3,"Tormented Angel","UDS",false
+3,"Lightwalker","DTK",false
+3,"Artful Maneuver","DTK",false
+3,"Evil Eye of Orms-by-Gore","6ED",false
+3,"Osai Vultures","4ED",false
+3,"Holy Strength","4ED",false
+3,"Fog","4ED",false
+3,"Yavimaya Elder","UDS",false
+3,"Formless Nurturing","FRF",false
+3,"Fierce Invocation","FRF",false
+3,"Refocus","FRF",false
+3,"Lethargy Trap","ZEN",false
+3,"Sure Strike","BFZ",false
+3,"See Beyond","ROE",false
+3,"Ondu Giant","ROE",false
+3,"Regress","ROE",false
+3,"Living Destiny","ROE",false
+3,"Overgrown Battlement","ROE",false
+3,"Grotag Siege-Runner","ROE",false
+3,"Deprive","ROE",false
+3,"Zof Shade","ROE",false
+3,"Essence Feed","ROE",false
+3,"Faerie Mechanist","CON",false
+3,"Salvage Slasher","CON",false
+3,"Cancel","ALA",false
+3,"Knight of the Skyward Eye","ALA",false
+3,"Hissing Iguanar","ALA",false
+3,"Excommunicate","ALA",false
+3,"Sanctum Gargoyle","ALA",false
+3,"Forbidden Alchemy","ISD",false
+3,"Doomed Traveler","ISD",false
+3,"Crosstown Courier","RTR",false
+3,"Time to Feed","THS",false
+3,"Traveling Philosopher","THS",false
+3,"Setessan Griffin","THS",false
+3,"Cavern Lampad","THS",false
+3,"Asphodel Wanderer","THS",false
+3,"Returned Centaur","THS",false
+3,"Vaporkin","THS",false
+3,"Nature's Panoply","JOU",false
+3,"Oreskos Swiftclaw","JOU",false
+3,"Akroan Mastiff","JOU",false
+3,"Claim of Erebos","BNG",false
+3,"Snake of the Golden Grove","BNG",false
+3,"Mortal's Resolve","BNG",false
+3,"Sage's Dousing","MOR",false
+3,"Shinewend","MOR",false
+3,"Ambassador Oak","MOR",false
+3,"Fertilid","MOR",false
+3,"Vine Snare","ORI",false
+3,"Enshrouding Mist","ORI",false
+3,"Kytheon's Tactics","ORI",false
+3,"Akroan Jailer","ORI",false
+3,"Infernal Scarring","ORI",false
+3,"Dark Dabbling","ORI",false
+3,"Nightsnare","ORI",false
+3,"Rabid Bloodsucker","ORI",false
+3,"Savage Punch","KTK",false
+3,"Whirlwind Adept","KTK",false
+3,"Tormenting Voice","KTK",false
+3,"Disdainful Stroke","KTK",false
+3,"Kolaghan Aspirant","DTK",false
+3,"Glint","DTK",false
+3,"Tread Upon","DTK",false
+3,"Revealing Wind","DTK",false
+3,"Ainok Artillerist","DTK",false
+3,"Satyr Wayfinder","M15",false
+3,"Gladecover Scout","M14",false
+3,"Fling","M12",false
+3,"Counterspell","6ED",false
+3,"Remove Soul","6ED",false
+3,"Spell Blast","6ED",false
+3,"Unsummon","6ED",false
+3,"Summer Bloom","6ED",false
+3,"Fallow Earth","6ED",false
+3,"Rabid Bite","SOI",false
+3,"Gloomwidow's Feast","SHM",false
+3,"Intimidator Initiate","SHM",false
+3,"Mudbrawler Cohort","SHM",false
+3,"Bloodshed Fever","SHM",false
+3,"Fume Spitter","SOM",false
+3,"Vulshok Heartstoker","SOM",false
+3,"Psychic Miasma","SOM",false
+3,"Shoulder to Shoulder","OGW",false
+3,"Oblivion Strike","OGW",false
+3,"Reality Hemorrhage","OGW",false
+3,"Expunge","USG",false
+3,"Raze","USG",false
+3,"Symbiosis","USG",false
+3,"Pallid Mycoderm","PLC",false
+3,"Whitemane Lion","PLC",false
+3,"Last Breath","SHM",false
+3,"Woeleecher","SHM",false
+3,"Mine Excavation","SHM",false
+3,"Rain of Rust","5DN",false
+3,"Aerie Ouphes","EVE",false
+3,"Fire at Will","EVE",false
+3,"Heartlash Cinder","EVE",false
+3,"Prismatic Ward","ICE",false
+3,"Panic","ICE",false
+3,"Earthlore","ICE",false
+3,"Fledgling Griffin","WWK",false
+3,"Groundswell","WWK",false
+3,"Elvish Branchbender","LRW",false
+3,"Gilt-Leaf Seer","LRW",false
+3,"Willow Faerie","HML",false,2982
+3,"Renewal","HML",false
+3,"Order of the Sacred Bell","CHK",false
+2,"Fogwalker","EMN",false
+2,"Stensia Banquet","EMN",false
+2,"Woodcutter's Grit","EMN",false
+2,"Crossroads Consecrator","EMN",false
+2,"Thraben Standard Bearer","EMN",false
+2,"Mercurial Geists","EMN",false
+2,"Shrill Howler","EMN",false
+2,"Spectral Reserves","EMN",false
+2,"Steadfast Cathar","EMN",false
+2,"Ironwright's Cleansing","EMN",false
+2,"Eternal Scourge","EMN",false
+2,"Unsubstantiate","EMN",false
+2,"Take Inventory","EMN",false
+2,"Long Road Home","EMN",false
 2,"Cessation","ULG",false
-1,"Driver of the Dead","AVR",false
-1,"Crypt Creeper","AVR",false
-1,"Hunted Ghoul","AVR",false
-1,"Undergrowth","ALL",false
-1,"Contagion","ALL",false
-1,"Glyph of Destruction","LEG",false
-1,"Osai Vultures","LEG",false
-1,"Commune with Nature","MM2",false
-1,"Rampant Growth","MM2",false
-1,"Fiery Fall","MM2",false
-1,"Fissure","DRK",false
-1,"Caustic Hound","MBS",false
-1,"Metamorphosis","ARN",false
-1,"Commune with Nature","CHK",false
-1,"Yamabushi's Storm","CHK",false
-1,"Burr Grafter","CHK",false
-1,"Ethereal Haze","CHK",false
-1,"Harsh Deceiver","CHK",false
-1,"Akki Drillmaster","SOK",false
-1,"Faithless Looting","DDK",false
-1,"Dragon Shadow","SCG",false
-1,"Krosan Drover","SCG",false
-1,"Volcanic Hammer","PO2",false
-1,"Highborn Ghoul","DKA",false
-1,"Gravepurge","DKA",false
-1,"Black Cat","DKA",false
-1,"Farbog Boneflinger","DKA",false
-1,"Farrel's Mantle","FEM",false
-1,"Icatian Javelineers","FEM",false
-1,"Dwarven Catapult","FEM",false
-1,"Spore Cloud","FEM",false,1921,"spore-cloud-myrfors"
-1,"Spore Cloud","FEM",false,1922,"spore-cloud-weber"
-1,"Goblin Chirurgeon","FEM",false,1948
-1,"Goblin Chirurgeon","FEM",false,1949,"goblin-chirurgeon-foglio"
-1,"Icatian Infantry","FEM",false,1984,"icatian-infantry-tucker"
-1,"Icatian Infantry","FEM",false,1982,"icatian-infantry-rush"
-1,"Goblin War Drums","FEM",false,1958,"goblin-war-drums-menges"
-1,"Goblin War Drums","FEM",false,1956,"goblin-war-drums-hudson"
-1,"An-Zerrin Ruins","HML",false
-1,"Memory Lapse","HML",false,2950,"memory-lapse-version-2"
-1,"Memory Lapse","HML",false,2949
-1,"Battlewand Oak","LRW",false
-1,"Bog-Strider Ash","LRW",false
-1,"Soulbright Flamekin","LRW",false
-1,"Inner-Flame Igniter","LRW",false
-1,"Silvergill Adept","LRW",false
-1,"Faerie Trickery","LRW",false
-1,"Imperious Perfect","LRW",false
-1,"Fertile Ground","LRW",false
-1,"Hurly-Burly","LRW",false
-1,"Bog-Strider Ash","LRW",false
-1,"Spring Cleaning","LRW",false
-1,"Lace with Moonglove","LRW",false
-1,"Makeshift Mannequin","LRW",false
-1,"Faerie Tauntings","LRW",false
-1,"Goldmeadow Harrier","LRW",false
-1,"Wispmare","LRW",false
-1,"Springjack Knight","LRW",false
-1,"Kinsbaile Skirmisher","LRW",false
-1,"Wellgabber Apothecary","LRW",false
-1,"Whirlpool Whelm","LRW",false
-1,"Snapping Creeper","WWK",false
-1,"Corrupted Zendikon","WWK",false
-1,"Graypelt Hunter","WWK",false
-1,"Veteran's Reflexes","WWK",false
-1,"Guardian Zendikon","WWK",false
-1,"Pilgrim's Eye","WWK",false
-1,"Runeboggle","GPT",false
-1,"Wildsize","GPT",false
-1,"Guardian's Magemark","GPT",false
-1,"Scab-Clan Mauler","GPT",false
-1,"Spined Thopter","NPH",false
-1,"Defensive Stance","NPH",false
-1,"Rowan Treefolk","POR",false
-1,"Scarwood Treefolk","TSP",false
-1,"Terramorphic Expanse","TSP",false
-1,"Naya Sojourners","ARB",false
-1,"Demonmail Hauberk","ISD",false
-1,"Shimmering Grotto","ISD",false
-1,"Cackling Flames","DIS",false
-1,"Valor Made Real","DIS",false
-1,"Slithering Shade","DIS",false
-1,"Cytospawn Shambler","DIS",false
-1,"Soulsworn Jury","DIS",false
-1,"Haazda Exonerator","DIS",false
-1,"Seal of Fire","DIS",false
-1,"Thrive","DIS",false
-1,"Bond of Agony","DIS",false
-1,"Master Decoy","8ED",false
-1,"Monstrous Growth","8ED",false
-1,"Shock","8ED",false
-1,"Elvish Pioneer","8ED",false
-1,"Air Elemental","8ED",false
-1,"Morgue Burst","DGM",false
-1,"Woodlot Crawler","DGM",false
-1,"Bronzebeak Moa","DGM",false
-1,"Beetleform Mage","DGM",false
-1,"Lyev Decree","DGM",false
-1,"Fatal Fumes","DGM",false
-1,"Ubul Sar Gatekeepers","DGM",false
-1,"Smelt-Ward Gatekeepers","DGM",false
-1,"Clear a Path","DGM",false
-1,"Feral Animist","DGM",false
-1,"Unholy Strength","5ED",false
-1,"Fallen Angel","7ED",false
-1,"Seeker of Skybreak","7ED",false
-1,"Vengeance","7ED",false
-1,"Boomerang","7ED",false
-1,"Updraft","5ED",false
-1,"Weakness","M10",false
-1,"Outrage Shaman","EVE",false
-1,"Grazing Kelpie","EVE",false
-1,"Razortip Whip","GTC",false
-1,"Drakewing Krasis","GTC",false
-1,"Ruination Wurm","GTC",false
-1,"Leyline Phantom","GTC",false
-1,"Horror of the Dim","GTC",false
-1,"Devour Flesh","GTC",false
-1,"Knight Watch","GTC",false
-1,"Corpse Blockade","GTC",false
-1,"Scab-Clan Charger","GTC",false
-1,"Spire Tracer","GTC",false
-1,"Burst of Strength","GTC",false
-1,"Verdant Haven","GTC",false
-1,"Skygames","GTC",false
-1,"Drowner Initiate","SHM",false
-1,"Helm of the Ghastlord","SHM",false
-1,"Spell Syphon","SHM",false
-1,"Kinscaer Harpoonist","SHM",false
-1,"Advice from the Fae","SHM",false
-1,"Sinking Feeling","SHM",false
-1,"Briarberry Cohort","SHM",false
-1,"Smash to Smithereens","SHM",false
-1,"Hungry Spriggan","SHM",false
-1,"Juvenile Gloomwidow","SHM",false
-1,"Wildslayer Elves","SHM",false
-1,"Crabapple Cohort","SHM",false
-1,"Put Away","SHM",false
-1,"Oona's Gatewarden","SHM",false
-1,"Neurok Spy","MRD",false
-1,"Krark-Clan Grunt","MRD",false
-1,"Nim Shrieker","MRD",false
-1,"Nim Lasher","MRD",false
-1,"Nim Shambler","MRD",false
-1,"Raise the Alarm","MRD",false
-1,"Leonin Elder","MRD",false
-1,"Somber Hoverguard","MRD",false
-1,"Gold Myr","MRD",false
-1,"Leaden Myr","MRD",false
-1,"Copper Myr","MRD",false
-1,"Alpha Myr","MRD",false
-1,"Omega Myr","MRD",false
-1,"Myr Mindservant","MRD",false
-1,"Arrest","MRD",false
-1,"Thalia, Heretic Cathar","pPRE",false
-1,"Dawn Gryff","EMN",false
-1,"Guardian of Pilgrims","EMN",false
-1,"Voldaren Pariah","EMN",false
-1,"Long Road Home","EMN",false
-1,"Ruthless Disposal","EMN",false
-1,"Liliana's Elite","EMN",false
-1,"Extricator of Sin","EMN",false
-1,"Eternal Scourge","EMN",false
-1,"Fiend Binder","EMN",false
-1,"Choking Restraints","EMN",false
-1,"Ironwright's Cleansing","EMN",false
-1,"Skirsdag Supplicant","EMN",false
-1,"Terrarion","EMN",false
-1,"Olivia's Dragoon","EMN",false
-1,"Steadfast Cathar","EMN",false
-1,"Spectral Reserves","EMN",false
-1,"Weirded Vampire","EMN",false
-1,"Wretched Gryff","EMN",false
-1,"Shrill Howler","EMN",false
-1,"Foul Emissary","EMN",false
-1,"Emrakul's Influence","EMN",false
-1,"Drownyard Behemoth","EMN",false
-1,"Somberwald Stag","EMN",false
-1,"Geist-Fueled Scarecrow","EMN",false
-1,"Cryptolith Fragment","EMN",false
-1,"Abandon Reason","EMN",false
-1,"Blood Mist","EMN",false
-1,"Fortune's Favor","EMN",false
-1,"Spirit of the Hunt","EMN",false
-1,"Mercurial Geists","EMN",false
-1,"Mind's Dilation","EMN",false
-1,"Curious Homunculus","EMN",false
-1,"Identity Thief","EMN",false
-1,"Thraben Foulbloods","EMN",false
-1,"Woodcutter's Grit","EMN",false
-1,"Ingenious Skaab","EMN",false
-1,"Enlightened Maniac","EMN",false
-1,"Brazen Wolves","EMN",false
-1,"Stensia Banquet","EMN",false
-1,"Bold Impaler","EMN",false
-1,"Lunarch Mantle","EMN",false
-1,"Laboratory Brute","EMN",false
-1,"Contingency Plan","EMN",false
-1,"Cemetery Recruitment","EMN",false
-1,"Gavony Unhallowed","EMN",false
-1,"Bloodbriar","EMN",false
-1,"Grapple with the Past","EMN",false
-1,"Swift Spinner","EMN",false
-1,"It of the Horrid Swarm","EMN",false
-1,"Field Creeper","EMN",false
-1,"Drownyard Explorers","SOI",false
-1,"Catalog","SOI",false
-1,"Deny Existence","SOI",false
-1,"Seagraf Skaab","SOI",false
-1,"Nagging Thoughts","SOI",false
-1,"Gone Missing","SOI",false
-1,"Press for Answers","SOI",false
-1,"Silburlind Snapper","SOI",false
-1,"Vessel of Paramnesia","SOI",false
-1,"Niblis of Dusk","SOI",false
-1,"True-Faith Censer","SOI",false
-1,"Rancid Rats","SOI",false
-1,"Traverse the Ulvenwald","SOI",false
-1,"Ongoing Investigation","SOI",true
-1,"Ulvenwald Mysteries","SOI",false
-1,"Skin Invasion","SOI",false
-1,"Ulrich's Kindred","SOI",false
-1,"Reckless Scholar","SOI",false
-1,"Engulf the Shore","SOI",false
-1,"Liliana's Indignation","SOI",false
-1,"Woodland Stream","SOI",false
-1,"Tenacity","SOI",false
-1,"Solitary Hunter","SOI",false
-1,"Ghostly Wings","SOI",false
-1,"Sleep Paralysis","SOI",false
-1,"Silent Observer","SOI",false
-1,"Voldaren Duelist","SOI",false
-1,"Insolent Neonate","SOI",false
-1,"Tormenting Voice","SOI",false
-1,"Howlpack Wolf","SOI",false
-1,"Structural Distortion","SOI",false
-1,"Ember-Eye Wolf","SOI",false
-1,"Convicted Killer","SOI",false
-1,"Vessel of Malignity","SOI",false
-1,"Merciless Resolve","SOI",false
-1,"Sanguinary Mage","SOI",false
-1,"Reduce to Ashes","SOI",false
-1,"Fiery Temper","SOI",false
-1,"Vessel of Volatility","SOI",false
-1,"Dual Shot","SOI",false
-1,"Merciless Resolve","SOI",false
-1,"Stromkirk Mentor","SOI",false
-1,"Stallion of Ashmouth","SOI",false
-1,"Rottenheart Ghoul","SOI",false
-1,"Vampire Noble","SOI",false
-1,"Sanitarium Skeleton","SOI",false
-1,"Grotesque Mutation","SOI",false
-1,"Ghoulcaller's Accomplice","SOI",false
-1,"Magmatic Chasm","SOI",false
-1,"Stern Constable","SOI",false
-1,"Moorland Drifter","SOI",false
-1,"Emissary of the Sleepless","SOI",false
-1,"Ethereal Guidance","SOI",false
-1,"Angelic Purge","SOI",false
-1,"Vessel of Ephemera","SOI",false
-1,"Survive the Night","SOI",false
-1,"Expose Evil","SOI",false
-1,"Unruly Mob","SOI",false
-1,"Puncturing Light","SOI",false
-1,"Inspiring Captain","SOI",false
-1,"Dauntless Cathar","SOI",false
-1,"Cathar's Companion","SOI",false
-1,"Apothecary Geist","SOI",false
-1,"Vessel of Nascency","SOI",false
-1,"Aim High","SOI",false
-1,"Confront the Unknown","SOI",false
-1,"Might Beyond Reason","SOI",false
-1,"Stoic Builder","SOI",false
-1,"Quilled Wolf","SOI",false
-1,"Fork in the Road","SOI",false
-1,"Unstable Mutation","4ED",false
-1,"Marsh Viper","5ED",false
-1,"Unstable Mutation","5ED",false
-1,"Unsummon","5ED",false
-1,"Counterspell","4ED",false
-1,"Farmstead","3ED",false
-1,"Flashfires","3ED",false
-1,"Mijae Djinn","3ED",false
-1,"Spell Blast","3ED",false
-1,"Spell Blast","4ED",false
-1,"Hurkyl's Recall","4ED",false
-1,"Blue Elemental Blast","4ED",false
-1,"Twiddle","4ED",false
-1,"Siren's Call","4ED",false
-1,"Creature Bond","4ED",false
-1,"Psychic Venom","4ED",false
-1,"Ray of Command","5ED",false
-1,"Blanket of Night","VIS",false
-1,"Rock Slide","VIS",false
-1,"Death Watch","VIS",false
-1,"Sun Clasp","VIS",false
-1,"Inspiration","VIS",false
-1,"Vision Charm","VIS",false
-1,"Man-o'-War","VIS",false
-1,"Mystic Veil","VIS",false
-1,"Lure","6ED",false
-1,"Elven Riders","6ED",false
-1,"Prodigal Sorcerer","6ED",false
-1,"Warrior's Honor","6ED",false
-1,"Shock","9ED",false
-1,"Rampant Growth","9ED",false
-1,"Summer Bloom","9ED",false
-1,"Remove Soul","9ED",false
-1,"Goblin Sky Raider","10E",false
-1,"Sylvan Scrying","10E",false
-1,"Elvish Berserker","10E",false
-1,"Tundra Wolves","10E",false
-1,"Suntail Hawk","10E",false
-1,"Ghost Warden","10E",false
-1,"Holy Day","10E",false
-1,"Heart of Light","10E",false
-1,"Demolish","10E",false
-1,"Canopy Spider","10E",false
-1,"Giant Spider","10E",false
-1,"Aura Graft","10E",false
-1,"Unsummon","10E",false
-1,"Flashfreeze","M10",false
-1,"Disorient","M10",false
-1,"Cancel","M10",false
-1,"Unsummon","M11",false
-1,"Augury Owl","M11",false
-1,"Spined Wurm","M11",false
-1,"Awakener Druid","M11",false
-1,"Hornet Sting","M11",false
-1,"Fog","M11",false
-1,"Berserkers of Blood Ridge","M11",false
-1,"Prodigal Pyromancer","M11",false
-1,"Viscera Seer","M11",false
-1,"Goldenglow Moth","M11",false
-1,"Ajani's Mantra","M11",false
-1,"Devouring Swarm","M12",false
-1,"Shock","M12",false
-1,"Ice Cage","M12",false
-1,"Phantasmal Bear","M12",false
-1,"Lightning Elemental","M12",false
-1,"Merfolk of the Pearl Trident","M13",false
-1,"Titanic Growth","M13",false
-1,"Tormented Soul","M13",false
-1,"Mind Rot","M13",false
-1,"Watercourser","M13",false
-1,"Divination","M13",false
-1,"Index","M13",false
-1,"Encrust","M13",false
-1,"Giant Scorpion","M13",false
-1,"Chandra's Fury","M13",false
-1,"Murder","M13",false
-1,"Essence Scatter","M14",false
-1,"Merfolk Spy","M14",false
-1,"Elvish Mystic","M14",false
-1,"Ranger's Guile","M14",false
-1,"Act on Impulse","M15",false
-1,"Lightning Strike","M15",false
-1,"Witch's Familiar","M15",false
-1,"Titanic Growth","M15",false
-1,"Elvish Mystic","M15",false
-1,"Hunter's Ambush","M15",false
-1,"Crippling Blight","M15",false
-1,"Wall of Fire","M15",false
-1,"Clear a Path","M15",false
-1,"Mind Rot","M15",false
-1,"Negate","M15",false
-1,"Chronostutter","M15",false
-1,"Welkin Tern","M15",false
-1,"Statute of Denial","M15",false
-1,"Gurmag Drowner","DTK",false
-1,"Gravepurge","DTK",false
-1,"Summit Prowler","DTK",false
-1,"Vandalize","DTK",false
-1,"Lose Calm","DTK",false
-1,"Impact Tremors","DTK",false
-1,"Sarkhan's Rage","DTK",false
-1,"Volcanic Rush","DTK",false
-1,"Sibsig Icebreakers","DTK",false
-1,"Kolaghan Skirmisher","DTK",false
-1,"Monastery Loremaster","DTK",false
-1,"Taigam's Strike","DTK",false
-1,"Zephyr Scribe","DTK",false
-1,"Ojutai Interceptor","DTK",false
-1,"Ojutai's Breath","DTK",false
-1,"Contradict","DTK",false
-1,"Sheltered Aerie","DTK",false
-1,"Naturalize","DTK",false
-1,"Glade Watcher","DTK",false
-1,"Epic Confrontation","DTK",false
-1,"Shambling Goblin","DTK",false
-1,"Butcher's Glee","DTK",false
-1,"Duress","DTK",false
-1,"Longshot Squad","KTK",false
-1,"Canyon Lurkers","KTK",false
-1,"Ainok Tracker","KTK",false
-1,"Warden of the Eye","KTK",false
-1,"Fathom Seer","TSP",false
-1,"Clockspinning","TSP",false
-1,"Evil Eye of Urborg","TSP",false
-1,"Sporesower Thallid","TSP",false
-1,"Gustcloak Cavalier","TSP",false
-1,"Cavalry Master","TSP",false
-1,"Skulking Knight","TSP",false
-1,"Strength in Numbers","TSP",false
-1,"Screeching Sliver","TSP",false
-1,"Eternity Snare","TSP",false
-1,"Errant Ephemeron","TSP",false
-1,"Graxiplon","ONS",false
-1,"Accursed Centaur","ONS",false
-1,"Misery Charm","ONS",false
-1,"Anurid Murkdiver","ONS",false
-1,"Nantuko Husk","ONS",false
-1,"Wretched Anurid","ONS",false
-1,"Syphon Soul","ONS",false
-1,"Crown of Suspicion","ONS",false
-1,"Screeching Buzzard","ONS",false
-1,"Spined Basher","ONS",false
-1,"Swat","ONS",false
-1,"Fallen Cleric","ONS",false
-1,"Dirge of Dread","ONS",false
-1,"Wirewood Elf","ONS",false
-1,"Fever Charm","ONS",false
-1,"Haunted Cadaver","ONS",false
-1,"Into the North","CSP",false
-1,"Icefall","CSP",false
-1,"Goblin Rimerunner","CSP",false
-1,"Magmatic Core","CSP",false
-1,"Zombie Musher","CSP",false
-1,"Luminesce","CSP",false
-1,"Swift Maneuver","CSP",false
-1,"Squall Drifter","CSP",false
-1,"Kjeldoran Outrider","CSP",false
-1,"Kjeldoran Javelineer","CSP",false
-1,"Surging Æther","CSP",false
-1,"Uktabi Drake","PLC",false
-1,"Citanul Woodreaders","PLC",false
-1,"Nessian Courser","FUT",false
-1,"Venser's Diffusion","FUT",false
-1,"Riddle of Lightning","FUT",false
-1,"Ichor Slick","FUT",false
-1,"Witch's Mist","FUT",false
-1,"Death Rattle","FUT",false
-1,"Putrid Cyclops","FUT",false
-1,"Oblivion Crown","FUT",false
-1,"Whip-Spine Drake","FUT",false
-1,"Sarcomite Myr","FUT",false
-1,"Memory Lapse","MIR",false
-1,"Preferred Selection","MIR",false
-1,"Rampant Growth","MIR",false
-1,"Wall of Resistance","MIR",false
-1,"Teferi's Drake","MIR",false
-1,"Arnjlot's Ascent","ICE",false
-1,"Snow Devil","ICE",false
-1,"Essence Flare","ICE",false
-1,"Battle Frenzy","ICE",false
-1,"Stone Rain","ICE",false
-1,"Wall of Lava","ICE",false
-1,"Foxfire","ICE",false
-1,"Essence Filter","ICE",false
-1,"Lava Burst","ICE",false
-1,"Total War","ICE",false
-1,"Lure","ICE",false
-1,"Word of Undoing","ICE",false
-1,"Glowering Rogon","LGN",false
-1,"Echo Tracer","LGN",false
-1,"Leap","STH",false
-1,"Samite Blessing","STH",false
-1,"Tidal Surge","STH",false
-1,"Sakura-Tribe Elder","CNS",false
-1,"Elvish Aberration","CNS",false
-1,"Echoing Courage","CNS",false
-1,"Nature's Claim","CNS",false
-1,"Tragic Slip","CNS",false
-1,"Necromantic Thirst","CNS",false
-1,"Stronghold Discipline","CNS",false
-1,"Grudge Keeper","CNS",false
-1,"Doomed Traveler","CNS",false
-1,"Pillarfield Ox","CNS",false
-1,"Lizard Warrior","CNS",false
-1,"Traveler's Cloak","CNS",false
-1,"Kor Chant","CNS",false
-1,"Stasis Cell","CNS",false
-1,"Aspiring Aeronaut","ORI",false
-1,"Ringwarden Owl","ORI",false
-1,"Nivix Barrier","ORI",false
-1,"Calculated Dismissal","ORI",false
-1,"Separatist Voidmage","ORI",false
-1,"Send to Sleep","ORI",false
-1,"Scrapskin Drake","ORI",false
-1,"Caustic Caterpillar","ORI",false
-1,"Aerial Volley","ORI",false
-1,"Orchard Spirit","ORI",false
-1,"Wild Instincts","ORI",false
-1,"Yeva's Forcemage","ORI",false
-1,"Nissa's Pilgrimage","ORI",false
-1,"Titanic Growth","ORI",false
-1,"Leaf Gilder","ORI",false
-1,"Elvish Visionary","ORI",false
-1,"Chaotic Backlash","EVE",false
-1,"Flame Jab","EVE",false
-1,"Unwilling Recruit","EVE",false
-1,"Raven's Crime","EVE",false
-1,"Ballynock Trapper","EVE",false
-1,"Endure","EVE",false
-1,"Tilling Treefolk","EVE",false
-1,"Dream Fracture","EVE",false
-1,"Disperse","MOR",false
-1,"Dewdrop Spy","MOR",false
-1,"Fencer Clique","MOR",false
-1,"Distant Melody","MOR",false
-1,"Thieves' Fortune","MOR",false
-1,"Negate","MOR",false
-1,"Mothdust Changeling","MOR",false
-1,"Ink Dissolver","MOR",false
-1,"Luminescent Rain","MOR",false
-1,"Bosk Banneret","MOR",false
-1,"Hunting Triad","MOR",false
-1,"Orchard Warden","MOR",false
-1,"Heritage Druid","MOR",false
-1,"Kindled Fury","MOR",false
-1,"Seething Pathblazer","MOR",false
-1,"Rage Forger","MOR",false
-1,"Hostile Realm","MOR",false
-1,"Everbark Shaman","MOR",false
-1,"War-Spike Changeling","MOR",false
-1,"Spitebellows","MOR",false
-1,"Brighthearth Banneret","MOR",false
-1,"Stomping Slabs","MOR",false
-1,"Retraction Helix","BNG",false
-1,"Gorgon's Head","BNG",false
-1,"Ephara's Enlightenment","BNG",false
-1,"Siren of the Silent Song","BNG",false
-1,"Evanescent Intellect","BNG",false
-1,"Chorus of the Tides","BNG",false
-1,"Floodtide Serpent","BNG",false
-1,"Eye Gouge","BNG",false
-1,"Nyxborn Eidolon","BNG",false
-1,"Fall of the Hammer","BNG",false
-1,"Asphyxiate","BNG",false
-1,"Crypsis","BNG",false
-1,"Pharagax Giant","BNG",false
-1,"Marshmist Titan","BNG",false
-1,"March of the Returned","THS",false
-1,"Setessan Starbreaker","BNG",false
-1,"Bolt of Keranos","BNG",false
-1,"Weight of the Underworld","BNG",false
-1,"Golden Hind","JOU",false
-1,"Armory of Iroas","JOU",false
-1,"Satyr Grovedancer","JOU",false
-1,"Stormchaser Chimera","JOU",false
-1,"Countermand","JOU",false
-1,"Thassa's Devourer","JOU",false
-1,"Godhunter Octopus","JOU",false
-1,"Power Sink","TMP",false
-1,"Time Ebb","TMP",false
-1,"Ertai's Meddling","TMP",false
-1,"Stinging Licid","TMP",false
-1,"Seeker of Skybreak","TMP",false
-1,"Skyshroud Elf","TMP",false
-1,"Dismiss","TMP",false
-1,"Shimmering Wings","TMP",false
-1,"Volrath's Curse","TMP",false
-1,"Stun","TMP",false
-1,"Mogg Raider","TMP",false
-1,"Spinal Graft","TMP",false
-1,"Dream Cache","TMP",false
-1,"Cho-Manno's Blessing","MMQ",false
-1,"Moment of Silence","MMQ",false
-1,"Giant Caterpillar","MMQ",false
-1,"Tranquility","MMQ",false
-1,"Diplomatic Immunity","MMQ",false
-1,"Lost in a Labyrinth","THS",false
-1,"Wild Celebrants","THS",false
-1,"Rage of Purphoros","THS",false
-1,"Lightning Strike","THS",false
-1,"Priest of Iroas","THS",false
-1,"Borderland Minotaur","THS",false
-1,"Satyr Rambler","THS",false
-1,"Demolish","THS",false
-1,"Returned Phalanx","THS",false
-1,"Viper's Kiss","THS",false
-1,"Agent of Horizons","THS",false
-1,"Nessian Courser","THS",false
-1,"Shredding Winds","THS",false
-1,"Nylea's Presence","THS",false
-1,"Voyaging Satyr","THS",false
-1,"Annul","THS",false
-1,"Unknown Shores","THS",false
-1,"Traveler's Amulet","THS",false
-1,"Sip of Hemlock","THS",false
-1,"Pharika's Mender","THS",false
-1,"Coastline Chimera","THS",false
-1,"Tower Drake","RTR",false
-1,"Catacomb Slug","RTR",false
-1,"Korozda Monitor","RTR",false
-1,"Viashino Racketeer","RTR",false
-1,"Axebane Guardian","RTR",false
-1,"Gore-House Chainwalker","RTR",false
-1,"Lobber Crew","RTR",false
-1,"Survey the Wreckage","RTR",false
-1,"Dynacharge","RTR",false
-1,"Traitorous Instinct","RTR",false
-1,"Drudge Beetle","RTR",false
-1,"Centaur's Herald","RTR",false
-1,"Gatecreeper Vine","RTR",false
-1,"Druid's Deliverance","RTR",false
-1,"Ogre Jailbreaker","RTR",false
-1,"Sewer Shambler","RTR",false
-1,"Daggerdrome Imp","RTR",false
-1,"Drainpipe Vermin","RTR",false
-1,"Dispel","RTR",false
-1,"Vassal Soul","RTR",false
-1,"Rakdos Guildgate","RTR",false
-1,"Doorkeeper","RTR",false
-1,"Voidwielder","RTR",false
-1,"Mirror Strike","PCY",false
-1,"Excise","PCY",false
-1,"Devastate","PCY",false
-1,"Latulla's Orders","PCY",false
-1,"Rethink","PCY",false
-1,"Alexi's Cloak","PCY",false
-1,"Pygmy Kavu","PLS",false
-1,"Sisay's Ingenuity","PLS",false
-1,"Lay of the Land","APC",false
-1,"Bloodfire Infusion","APC",false
-1,"Zombie Boa","APC",false
-1,"Living Airship","APC",false
-1,"Symbol of Unsummoning","POR",false
-1,"Aggressive Urge","INV",false
-1,"Harrow","INV",false
-1,"Llanowar Vanguard","INV",false
-1,"Nightscape Apprentice","INV",false
-1,"Explosive Growth","INV",false
-1,"Prohibit","INV",false
-1,"Barbed Lightning","DST",false
-1,"Reap and Sow","DST",false
-1,"Krark-Clan Stoker","DST",false
-1,"Echoing Courage","DST",false
-1,"Echoing Decay","DST",false
-1,"Vex","DST",false
-1,"Metallurgeon","ARC",false
-1,"Spin into Myth","ARC",false
-1,"Thoughtcutter Agent","ALA",false
-1,"Resounding Roar","ALA",false
-1,"Elvish Visionary","ALA",false
-1,"Naturalize","ALA",false
-1,"Court Archers","ALA",false
-1,"Carrion Thrash","ALA",false
-1,"Cloudheath Drake","ALA",false
-1,"Grixis Panorama","ALA",false
-1,"Obelisk of Esper","ALA",false
-1,"Sigil Blessing","ALA",false
-1,"Sangrite Surge","ALA",false
-1,"Esper Battlemage","ALA",false
-1,"Tortoise Formation","ALA",false
-1,"Courier's Capsule","ALA",false
-1,"Esperzoa","CON",false
-1,"Nacatl Savage","CON",false
-1,"Might of Alara","CON",false
-1,"Ember Weaver","CON",false
-1,"Sylvan Bounty","CON",false
-1,"Worldly Counsel","CON",false
-1,"Vedalken Outlander","CON",false
-1,"Skyward Eye Prophets","CON",false
-1,"Suicidal Charge","CON",false
-1,"Brackwater Elemental","CON",false
-1,"View from Above","CON",false
-1,"Induce Despair","ROE",false
-1,"Perish the Thought","ROE",false
-1,"Death Cultist","ROE",false
-1,"Bala Ged Scorpion","ROE",false
-1,"Nighthaze","ROE",false
-1,"Contaminated Ground","ROE",false
-1,"Bloodrite Invoker","ROE",false
-1,"Sea Gate Oracle","ROE",false
-1,"Spawning Breath","ROE",false
-1,"Wrap in Flames","ROE",false
-1,"Brood Birthing","ROE",false
-1,"Raid Bombardment","ROE",false
-1,"Nest Invader","ROE",false
-1,"Battle-Rattle Shaman","ROE",false
-1,"Growth Spasm","ROE",false
-1,"Staggershock","ROE",false
-1,"Leaf Arrow","ROE",false
-1,"Emrakul's Hatcher","ROE",false
-1,"Goblin Tunneler","ROE",false
-1,"Lavafume Invoker","ROE",false
-1,"Fissure Vent","ROE",false
-1,"Flame Slash","ROE",false
-1,"Kozilek's Predator","ROE",false
-1,"Wildheart Invoker","ROE",false
-1,"Ancient Stirrings","ROE",false
-1,"Goblin Arsonist","ROE",false
-1,"Heat Ray","ROE",false
-1,"Naturalize","ROE",false
-1,"Shared Discovery","ROE",false
-1,"Jwari Scuttler","ROE",false
-1,"Distortion Strike","ROE",false
-1,"Mnemonic Wall","ROE",false
-1,"Clutch of Currents","BFZ",false
-1,"Lifespring Druid","BFZ",false
-1,"Touch of the Void","BFZ",false
-1,"Volcanic Upheaval","BFZ",false
-1,"Makindi Sliderunner","BFZ",false
-1,"Giant Mantis","BFZ",false
-1,"Oran-Rief Invoker","BFZ",false
-1,"Tajuru Beastmaster","BFZ",false
-1,"Swell of Growth","BFZ",false
-1,"Snapping Gnarlid","BFZ",false
-1,"Territorial Baloth","BFZ",false
-1,"Natural Connection","BFZ",false
-1,"Seek the Wilds","BFZ",false
-1,"Valakut Predator","BFZ",false
-1,"Blisterpod","BFZ",false
-1,"Broodhunter Wurm","BFZ",false
-1,"Plummet","BFZ",false
-1,"Call the Scions","BFZ",false
-1,"Unnatural Aggression","BFZ",false
-1,"Earthen Arms","BFZ",false
-1,"Tajuru Stalwart","BFZ",false
-1,"Sludge Crawler","BFZ",false
-1,"Geyserfield Stalker","BFZ",false
-1,"Dutiful Return","BFZ",false
-1,"Kalastria Healer","BFZ",false
-1,"Outnumber","BFZ",false
-1,"Boiling Earth","BFZ",false
-1,"Stonefury","BFZ",false
-1,"Dominator Drone","BFZ",false
-1,"Nirkana Assassin","BFZ",false
-1,"Reckless Cohort","BFZ",false
-1,"Kozilek's Sentinel","BFZ",false
-1,"Complete Disregard","BFZ",false
-1,"Mind Raker","BFZ",false
-1,"Belligerent Whiptail","BFZ",false
-1,"Mire's Malice","BFZ",false
-1,"Ondu Champion","BFZ",false
-1,"Valakut Invoker","BFZ",false
-1,"Culling Drone","BFZ",false
-1,"Swarm Surge","BFZ",false
-1,"Altar's Reap","BFZ",false
-1,"Brilliant Spectrum","BFZ",false
-1,"Dispel","BFZ",false
-1,"Rush of Ice","BFZ",false
-1,"Oracle of Dust","BFZ",false
-1,"Mist Intruder","BFZ",false
-1,"Incubator Drone","BFZ",false
-1,"Cloud Manta","BFZ",false
-1,"Welkin Tern","ZEN",false
-1,"Harrow","ZEN",false
-1,"Zendikar Farguide","ZEN",false
-1,"Nissa's Chosen","ZEN",false
-1,"Grazing Gladehart","ZEN",false
-1,"Whiplash Trap","ZEN",false
-1,"Windrider Eel","ZEN",false
-1,"Shoal Serpent","ZEN",false
-1,"Explorer's Scope","ZEN",false
-1,"Hedron Scrabbler","ZEN",false
-1,"Ancient Crab","OGW",false
-1,"Jwar Isle Avenger","OGW",false
-1,"Negate","OGW",false
-1,"Slip Through Space","OGW",false
-1,"Blinding Drone","OGW",false
-1,"Terashi's Grasp","BOK",false
-1,"Heart of Light","BOK",false
-1,"Shimmering Glasskite","BOK",false
-1,"Teardrop Kami","BOK",false
-1,"Will of the Naga","FRF",false
-1,"Whisk Away","FRF",false
-1,"Rakshasa's Disdain","FRF",false
-1,"Lotus Path Djinn","FRF",false
-1,"Write into Being","FRF",false
-1,"Sultai Skullkeeper","FRF",false
-1,"Map the Wastes","FRF",false
-1,"Temur Runemark","FRF",false
-1,"Return to the Earth","FRF",false
-1,"Ambush Krotiq","FRF",false
-1,"Feral Krushok","FRF",false
-1,"Archers of Qarsi","FRF",false
-1,"Whisperer of the Wilds","FRF",false
-1,"Frontier Mastodon","FRF",false
-1,"Defiant Ogre","FRF",false
-1,"Hooded Assassin","FRF",false
-1,"Collateral Damage","FRF",false
-1,"Ancestral Vengeance","FRF",false
-1,"Temur Battle Rage","FRF",false
-1,"Goblin Heelcutter","FRF",false
-1,"Tasigur's Cruelty","FRF",false
-1,"Mardu Scout","FRF",false
-1,"Smoldering Efreet","FRF",false
-1,"Alesha's Vanguard","FRF",false
-1,"Spark Elemental","5DN",false
-1,"Nim Grotesque","5DN",false
-1,"Vanquish","5DN",false
-1,"Early Frost","5DN",false
-1,"Muddle the Mixture","RAV",false
-1,"Scatter the Seeds","RAV",false
-1,"Greater Mossdog","RAV",false
-1,"Frenzied Goblin","RAV",false
-1,"Stone-Seeder Hierophant","RAV",false
-1,"Root-Kin Ally","RAV",false
-1,"Goblin Fire Fiend","RAV",false
-1,"Viashino Fangtail","RAV",false
-1,"Barbarian Riftcutter","RAV",false
-1,"Cleansing Beam","RAV",false
-1,"Courier Hawk","RAV",false
-1,"Peel from Reality","RAV",false
-1,"Thornwind Faeries","ULG",false
-1,"Ghitu War Cry","ULG",false
-1,"Volition Reins","SOM",false
-1,"Halt Order","SOM",false
-1,"Scrapdiver Serpent","SOM",false
-1,"Stoic Rebuttal","SOM",false
-1,"Fatal Blow","WTH",false
-1,"Disrupt","WTH",false
-1,"Lava Dart","JUD",false
-1,"Book Burning","JUD",false
-1,"Ironshell Beetle","JUD",false
-1,"Benevolent Bodyguard","JUD",false
-1,"Mental Note","JUD",false
-1,"Elephant Guide","EMA",false
-1,"Keldon Marauders","EMA",false
-1,"Yavimaya Enchantress","EMA",false
-1,"Harmonize","EMA",false
-1,"Worn Powerstone","EMA",false
-1,"Undying Rage","EMA",true
-1,"Dream Twist","EMA",false
-1,"Memory Lapse","EMA",false
-1,"Scoured Barrens","EMA",false
-1,"Ichorid","EMA",false
-1,"Glimmerpoint Stag","EMA",false
-1,"Elite Vanguard","EMA",false
-1,"Pacifism","EMA",false
-1,"Twisted Abomination","EMA",false
-1,"Blossoming Sands","EMA",false
-1,"Smoldering Crater","USG",false
-1,"Drifting Meadow","USG",false
-1,"Syphon Mind","CMD",false
-1,"Bestial Menace","CMD",false
-1,"Cobra Trap","CMD",false
-1,"Shriekmaw","CMD",false
-1,"Nemesis Trap","CMD",false
-1,"Nantuko Husk","CMD",false
-1,"Aquastrand Spider","CMD",false
-1,"Tribute to the Wild","CMD",false
-1,"Fertilid","CMD",false
-1,"Fists of Ironwood","CMD",false
-1,"Squallmonger","CMD",false
-1,"Spike Feeder","CMD",false
-1,"Vow of Duty","CMD",false
-1,"Oblivion Ring","CMD",false
-1,"Vow of Wildness","CMD",false
-1,"Slinking Skirge","UDS",false
-1,"Skittering Horror","UDS",false
-1,"Bubbling Muck","UDS",false
-1,"Dying Wail","UDS",false
-1,"Kithkin Shielddare","SHM",false
-1,"Barrenton Medic","SHM",false
-1,"Niveous Wisps","SHM",false
-1,"Llanowar Elves","M10",false
-1,"Prized Unicorn","M10",false
-1,"Dragon Whelp","M10",false
-1,"Trumpet Blast","M10",false
-1,"Palace Guard","M10",false
-1,"Wall of Faith","M10",false
-1,"Burning Inquiry","M10",false
-1,"Looming Shade","M10",false
-1,"Disentomb","M10",false
-1,"Drudge Skeletons","M10",false
-1,"Mind Rot","M10",false
-1,"Celestial Purge","M10",false
-1,"Excommunicate","M10",false
-1,"Sandskin","ONS",false
-1,"Skirk Shaman","PLC",false
-1,"Circle of Affliction","PLC",false
-1,"Saltblast","PLC",false
-1,"Revered Dead","PLC",false
-1,"Spirit en-Dal","FUT",false
-1,"Heat Ray","USG",false
-1,"Despondency","USG",false
-1,"Shower of Sparks","USG",false
-1,"Lay Waste","USG",false
-1,"Falter","USG",false
-1,"Serra Zealot","USG",false
-1,"Spawnbinder Mage","OGW",false
-1,"Expedition Raptor","OGW",false
-1,"Affa Protector","OGW",false
-1,"Mighty Leap","OGW",false
-1,"Ondu War Cleric","OGW",false
-1,"Expedite","OGW",false
-1,"Searing Light","OGW",false
-1,"Corpse Churn","OGW",false
-1,"Sparkmage's Gambit","OGW",false
-1,"Akoum Flameseeker","OGW",false
-1,"Sky Scourer","OGW",false
-1,"Vines of the Recluse","OGW",false
-1,"Elemental Uprising","OGW",false
-1,"Scion Summoner","OGW",false
-1,"Pulse of Murasa","OGW",false
-1,"Lead by Example","OGW",false
-1,"Eldrazi Aggressor","OGW",false
-1,"Goblin Freerunner","OGW",false
-1,"Zada's Commando","OGW",false
-1,"Kozilek's Translator","OGW",false
-1,"Tar Snare","OGW",false
-1,"Isolation Zone","OGW",false
-1,"Kor Sky Climber","OGW",false
-1,"Glint Hawk","SOM",false
-1,"Blackcleave Goblin","SOM",false
-1,"Auriok Edgewright","SOM",false
-1,"Ghalma's Warden","SOM",false
-1,"Abuna Acolyte","SOM",false
-1,"Auriok Sunchaser","SOM",false
-1,"Salvage Scout","SOM",false
-1,"Necrogen Scudder","SOM",false
-1,"Sunspear Shikari","SOM",false
-1,"Ichor Rats","SOM",false
-1,"Contagious Nim","SOM",false
-1,"Dross Hopper","SOM",false
-1,"Plague Stinger","SOM",false
-1,"Moriok Reaver","SOM",false
-1,"Relic Putrescence","SOM",false
-1,"Wing Puncture","SOM",false
-1,"Tel-Jilad Defiance","SOM",false
-1,"Untamed Might","SOM",false
-1,"Copperhorn Scout","SOM",false
-1,"Melt Terrain","SOM",false
-1,"Blade-Tribe Berserkers","SOM",false
-1,"Arc Trail","SOM",false
-1,"Furnace Celebration","SOM",false
-1,"Assault Strobe","SOM",false
-1,"Ogre Geargrabber","SOM",false
-1,"Embersmith","SOM",false
-1,"Oxidda Daredevil","SOM",false
-1,"Grasp of Darkness","SOM",false
-1,"Bleak Coven Vampires","SOM",false
-1,"Withstand Death","SOM",false
-1,"Loxodon Wayfarer","SOM",false
-1,"Corpse Hauler","M14",false
-1,"Festering Newt","M14",false
-1,"Blood Bairn","M14",false
-1,"Pay No Heed","M14",false
-1,"Returned Centaur","ORI",false
-1,"Bellows Lizard","ORI",false
-1,"Prickleboar","ORI",false
-1,"Ghirapur Gearcrafter","ORI",false
-1,"Reave Soul","ORI",false
-1,"Volcanic Rambler","ORI",false
-1,"Macabre Waltz","ORI",false
-1,"Lightning Javelin","ORI",false
-1,"Act of Treason","ORI",false
-1,"Nantuko Husk","ORI",false
-1,"Unholy Hunger","ORI",false
-1,"Shambling Ghoul","ORI",false
-1,"Catacomb Slug","ORI",false
-1,"Heavy Infantry","ORI",false
-1,"Final-Sting Faerie","MOR",false
-1,"Pack's Disdain","MOR",false
-1,"Offalsnout","MOR",false
-1,"Nightshade Schemers","MOR",false
-1,"Morsel Theft","MOR",false
-1,"Frogtosser Banneret","MOR",false
-1,"Blightsoil Druid","MOR",false
-1,"Violet Pall","MOR",false
-1,"Ballyrush Banneret","MOR",false
-1,"Weed-Pruner Poplar","MOR",false
-1,"Stonybrook Schoolmaster","MOR",false
-1,"Wandering Graybeard","MOR",false
-1,"Redeem the Lost","MOR",false
-1,"Mortal Obstinacy","JOU",false
-1,"Magma Spray","JOU",false
-1,"Returned Reveler","JOU",false
-1,"Flurry of Horns","JOU",false
-1,"Starfall","JOU",false
-1,"Flamespeaker's Will","JOU",false
-1,"Font of Return","JOU",false
-1,"Bloodcrazed Hoplite","JOU",false
-1,"Cast into Darkness","JOU",false
-1,"Mortal's Ardor","BNG",false
-1,"Loyal Pegasus","BNG",false
-1,"Stonewise Fortifier","JOU",false
-1,"Elite Skirmisher","BNG",false
-1,"Griffin Dreamfinder","BNG",false
-1,"Hold at Bay","BNG",false
-1,"Cruel Feeding","JOU",false
-1,"Font of Vigor","JOU",false
-1,"Lagonna-Band Elder","THS",false
-1,"Hopeful Eidolon","THS",false
-1,"Gods Willing","THS",false
-1,"Battlewise Valor","THS",false
-1,"Silent Artisan","THS",false
-1,"Setessan Battle Priest","THS",false
-1,"Ray of Dissolution","THS",false
-1,"Swift Justice","RTR",false
-1,"Ethereal Armor","RTR",false
-1,"Armory Guard","RTR",false
-1,"Selesnya Sentry","RTR",false
-1,"Spider Spawning","ISD",false
-1,"Ancient Grudge","ISD",false
-1,"Night Terrors","ISD",false
-1,"Brain Weevil","ISD",false
-1,"Abbey Griffin","ISD",false
-1,"Selfless Cathar","ISD",false
-1,"Dragon Fodder","ALA",false
-1,"Viashino Skeleton","ALA",false
-1,"Goblin Mountaineer","ALA",false
-1,"Bloodthorn Taunter","ALA",false
-1,"Ridge Rannet","ALA",false
-1,"Viscera Dragger","ALA",false
-1,"Thunder-Thrash Elder","ALA",false
-1,"Sighted-Caste Sorcerer","ALA",false
-1,"Welkin Guide","ALA",false
-1,"Resounding Silence","ALA",false
-1,"Executioner's Capsule","ALA",false
-1,"Dregscape Zombie","ALA",false
-1,"Wandering Goblins","CON",false
-1,"Maniacal Rage","CON",false
-1,"Quenchable Fire","CON",false
-1,"Molten Frame","CON",false
-1,"Kranioceros","CON",false
-1,"Sedraxis Alchemist","CON",false
-1,"Darklit Gargoyle","CON",false
-1,"Valiant Guard","CON",false
-1,"Rhox Meditant","CON",false
-1,"Court Homunculus","CON",false
-1,"Abzan Advantage","FRF",false
-1,"Sandblast","FRF",false
-1,"Great-Horn Krushok","FRF",false
-1,"Abzan Skycaptain","FRF",false
-1,"Pressure Point","FRF",false
-1,"Arashin Cleric","FRF",false
-1,"Balance","4ED",false
-1,"Tundra Wolves","4ED",false
-1,"Wall of Swords","4ED",false
-1,"Circle of Protection Black","4ED",false
-1,"Disenchant","4ED",false
-1,"Terror","4ED",false
-1,"Northern Paladin","4ED",false
-1,"Reverse Damage","4ED",false
-1,"Flashfires","4ED",false
-1,"Channel","4ED",false
-1,"Pradesh Gypsies","4ED",false
-1,"Shanodin Dryads","4ED",false
-1,"Winter Blast","4ED",false
-1,"Mesa Pegasus","4ED",false
-1,"Wall of Fire","6ED",false
-1,"Flashfires","6ED",false
-1,"Stone Rain","6ED",false
-1,"Raging Goblin","6ED",false
-1,"Abyssal Specter","6ED",false
-1,"Perish","6ED",false
-1,"Enlightened Tutor","6ED",false
-1,"Wall of Swords","6ED",false
-1,"Eland Umbra","ROE",false
-1,"Harmless Assault","ROE",false
-1,"Repel the Darkness","ROE",false
-1,"Puncturing Light","ROE",false
-1,"Glory Seeker","ROE",false
-1,"Soul's Attendant","ROE",false
-1,"Wall of Omens","ROE",false
-1,"Lone Missionary","ROE",false
-1,"Sheer Drop","BFZ",false
-1,"Angelic Gift","BFZ",false
-1,"Makindi Patrol","BFZ",false
-1,"Cliffside Lookout","BFZ",false
-1,"Kitesail Scout","BFZ",false
-1,"Kor Castigator","BFZ",false
-1,"Felidar Cub","BFZ",false
-1,"Stone Haven Medic","BFZ",false
-1,"Ondu Greathorn","BFZ",false
-1,"Shadow Glider","BFZ",false
-1,"Inspired Charge","BFZ",false
-1,"Lithomancer's Focus","BFZ",false
-1,"Gideon's Reproach","BFZ",false
-1,"Tandem Tactics","BFZ",false
-1,"Disturbing Plot","SHM",false
-1,"Splitting Headache","SHM",false
-1,"Corrosive Mentor","SHM",false
-1,"Cinderhaze Wretch","SHM",false
-1,"Smolder Initiate","SHM",false
-1,"Center Soul","DTK",false
-1,"Sandcrafter Mage","DTK",false
-1,"Student of Ojutai","DTK",false
-1,"Capashen Knight","UDS",false
-1,"Capashen Standard","UDS",false
-1,"Reliquary Monk","UDS",false
-1,"Selfless Cathar","M15",false
-1,"Soulmender","M15",false
-1,"Tireless Missionaries","M15",false
-1,"Oppressive Rays","M15",false
-1,"Heartstabber Mosquito","ZEN",false
-1,"Kor Cartographer","ZEN",false
-1,"Rotting Mastodon","KTK",false
-1,"Shoulder to Shoulder","OGW",false
+2,"Capashen Templar","UDS",false
+2,"Territorial Roc","DTK",false
+2,"Enduring Victory","DTK",false
+2,"Fate Forgotten","DTK",false
+2,"Aven Tactician","DTK",false
+2,"Courier Griffin","BFZ",false
+2,"Smite the Monstrous","BFZ",false
+2,"Guard Duty","ROE",false
+2,"Makindi Griffin","ROE",false
+2,"Kor Line-Slinger","ROE",false
+2,"Smite","ROE",false
+2,"Boil","6ED",false
+2,"Shock","6ED",false
+2,"Lightning Blast","6ED",false
+2,"Sabretooth Tiger","6ED",false
+2,"Fatal Blow","6ED",false
+2,"Fissure","4ED",false
+2,"Stone Rain","4ED",false
+2,"Wall of Dust","4ED",false
+2,"Goblin Balloon Brigade","4ED",false
+2,"Dragon Bell Monk","FRF",false
+2,"Soul Summons","FRF",false
+2,"Sandsteppe Outcast","FRF",false
+2,"Aven Skirmisher","FRF",false
+2,"Fiery Fall","CON",false
+2,"Gleam of Resistance","CON",false
+2,"Dispeller's Capsule","ALA",false
+2,"Incurable Ogre","ALA",false
+2,"Volcanic Submersion","ALA",false
+2,"Bloodcrazed Neonate","ISD",false
+2,"Keening Apparition","RTR",false
+2,"Rootborn Defenses","RTR",false
+2,"Chosen by Heliod","THS",false
+2,"Leonin Snarecaster","THS",false
+2,"Lagonna-Band Trailblazer","JOU",false
+2,"Stonewise Fortifier","JOU",false
+2,"Nyx Infusion","JOU",false
+2,"Ephara's Radiance","BNG",false
+2,"Eagle of the Watch","JOU",false
+2,"Satyr Hoplite","JOU",false
+2,"Rouse the Mob","JOU",false
+2,"Lightning Diadem","JOU",false
+2,"Sigiled Skink","JOU",false
+2,"Feast of Dreams","JOU",false
+2,"Dreadbringer Lampads","JOU",false
+2,"Changeling Sentinel","MOR",false
+2,"Festercreep","MOR",false
+2,"Squeaking Pie Grubfellows","MOR",false
+2,"Noggin Whack","MOR",false
+2,"Graceful Reprieve","MOR",false
+2,"Weight of Conscience","MOR",false
+2,"Auramancer","ORI",false
+2,"Undead Servant","ORI",false
+2,"Deadbridge Shaman","ORI",false
+2,"Titan's Strength","ORI",false
+2,"Touch of Moonglove","ORI",false
+2,"Mighty Leap","ORI",false
+2,"Stalwart Aven","ORI",false
+2,"Charging Griffin","ORI",false
+2,"Cleric of the Forward Order","ORI",false
+2,"Shock","M14",false
+2,"Chime of Night","UDS",false
+2,"Turn Aside","SOM",false
+2,"Plated Seastrider","SOM",false
+2,"Bonds of Quicksilver","SOM",false
+2,"Steady Progress","SOM",false
+2,"Vault Skyward","SOM",false
+2,"Screeching Silcaw","SOM",false
+2,"Tainted Strike","SOM",false
+2,"Instill Infection","SOM",false
+2,"Soul Parry","SOM",false
+2,"Ezuri's Archers","SOM",false
+2,"Carapace Forger","SOM",false
+2,"Turn to Slag","SOM",false
+2,"Kuldotha Rebirth","SOM",false
+2,"Scoria Elemental","SOM",false
+2,"Shatter","SOM",false
+2,"Ferrovore","SOM",false
+2,"Tel-Jilad Fallen","SOM",false
+2,"Fog of Gnats","ULG",false
+2,"Swat","ULG",false
+2,"Snap","ULG",false
+2,"Multani's Presence","ULG",false
+2,"Miscalculation","ULG",false
+2,"Gore Swine","FRF",false
+2,"Sultai Emissary","FRF",false
+2,"Lightning Shrieker","FRF",false
+2,"Bathe in Dragonfire","FRF",false
+2,"Hunt the Weak","FRF",false
+2,"Ainok Guide","FRF",false
+2,"Enhanced Awareness","FRF",false
+2,"Aven Surveyor","FRF",false
+2,"Jeskai Sage","FRF",false
+2,"Containment Membrane","OGW",false
+2,"Comparative Analysis","OGW",false
+2,"Gravity Negator","OGW",false
+2,"Umara Entangler","OGW",false
+2,"Sweep Away","OGW",false
+2,"Cultivator Drone","OGW",false
+2,"Abstruse Interference","OGW",false
+2,"Kor Scythemaster","OGW",false
+2,"Makindi Aeronaut","OGW",false
+2,"Witness the End","OGW",false
+2,"Unnatural Endurance","OGW",false
+2,"Vampire Envoy","OGW",false
+2,"Loam Larva","OGW",false
+2,"Netcaster Spider","OGW",false
+2,"Natural State","OGW",false
+2,"Saddleback Lagac","OGW",false
+2,"Stalking Drone","OGW",false
+2,"Zulaport Chainmage","OGW",false
+2,"Boulder Salvo","OGW",false
+2,"Maw of Kozilek","OGW",false
+2,"Scythe Tiger","ZEN",false
+2,"Joraga Bard","ZEN",false
+2,"Voracious Null","BFZ",false
+2,"Eyeless Watcher","BFZ",false
+2,"Murk Strider","BFZ",false
+2,"Salvage Drone","BFZ",false
+2,"Eldrazi Skyspawner","BFZ",false
+2,"Wave-Wing Elemental","BFZ",false
+2,"Spell Shrivel","BFZ",false
+2,"Grave Birthing","BFZ",false
+2,"Silent Skimmer","BFZ",false
+2,"Nettle Drone","BFZ",false
+2,"Anticipate","BFZ",false
+2,"Lay Bare","ROE",false
+2,"Aura Finesse","ROE",false
+2,"Kiln Fiend","ROE",false
+2,"Battle Rampart","ROE",false
+2,"Sporecap Spider","ROE",false
+2,"Demonic Appetite","ROE",false
+2,"Beacon Behemoth","CON",false
+2,"Etherium Sculptor","ALA",false
+2,"Wild Nacatl","ALA",false
+2,"Mosstodon","ALA",false
+2,"Jund Panorama","ALA",false
+2,"Destroy the Evidence","RTR",false
+2,"Inspiration","RTR",false
+2,"Launch Party","RTR",false
+2,"Cremate","RTR",false
+2,"Spawn of Rix Maadi","RTR",false
+2,"Scourgemark","THS",false
+2,"Staunch-Hearted Warrior","THS",false
+2,"March of the Returned","THS",false
+2,"Defend the Hearth","THS",false
+2,"Fade into Antiquity","THS",false
+2,"Griptide","THS",false
+2,"Portent of Betrayal","THS",false
+2,"Gray Merchant of Asphodel","THS",false
+2,"Baleful Eidolon","THS",false
+2,"Pharika's Cure","THS",false
+2,"Akroan Crusader","THS",false
+2,"Fate Foretold","THS",false
+2,"Rise of Eagles","JOU",false
+2,"War-Wing Siren","JOU",false
+2,"Triton Shorestalker","JOU",false
+2,"Font of Fortunes","JOU",false
+2,"Market Festival","JOU",false
+2,"Renowned Weaver","JOU",false
+2,"Kruphix's Insight","JOU",false
+2,"Divination","BNG",false
+2,"Nullify","BNG",false
+2,"Grisly Transformation","BNG",false
+2,"Felhide Brawler","BNG",false
+2,"Necrobite","BNG",false
+2,"Servant of Tymaret","BNG",false
+2,"Cyclops of One-Eyed Pass","BNG",false
+2,"Scouring Sands","BNG",false
+2,"Charging Badger","BNG",false
+2,"Swordwise Centaur","BNG",false
+2,"Karametra's Favor","BNG",false
+2,"Shard Volley","MOR",false
+2,"Fire Juggler","MOR",false
+2,"Dream Thief","EVE",false
+2,"Hitchclaw Recluse","ORI",false
+2,"Timberpack Wolf","ORI",false
+2,"Watercourser","ORI",false
+2,"Disperse","ORI",false
+2,"Annul","USG",false
+2,"Catalog","USG",false
+2,"Opal Caryatid","USG",false
+2,"Opal Gargoyle","USG",false
+2,"Hush","USG",false
+2,"Power Sink","MIR",false
+2,"Seal of Primordium","PLC",false
+2,"Sunlance","PLC",false
+2,"Aven Riftwatcher","PLC",false
+2,"Essence Warden","PLC",false
+2,"Venarian Glimmer","PLC",false
+2,"Reality Acid","PLC",false
+2,"Shock","ONS",false
+2,"Aphetto Dredging","ONS",false
+2,"Winterflame","KTK",false
+2,"Alpine Grizzly","KTK",false
+2,"Awaken the Bear","KTK",false
+2,"Treasure Cruise","KTK",false
+2,"Tail Slash","DTK",false
+2,"Mind Rot","DTK",false
+2,"Reckless Imp","DTK",false
+2,"Kindled Fury","DTK",false
+2,"Pinion Feast","DTK",false
+2,"Colossodon Yearling","DTK",false
+2,"Mystic Meditation","DTK",false
+2,"Sidisi's Faithful","DTK",false
+2,"Wandering Tombshell","DTK",false
+2,"Ojutai's Summons","DTK",false
+2,"Updraft Elemental","DTK",false
+2,"Dragon-Scarred Bear","DTK",false
+2,"Ancient Carp","DTK",false
+2,"Naturalize","M15",false
+2,"Hunt the Weak","M15",false
+2,"Necrobite","M15",false
+2,"Flesh to Dust","M15",false
+2,"Black Cat","M15",false
+2,"Peel from Reality","M15",false
+2,"Essence Drain","M13",false
+2,"Wild Guess","M13",false
+2,"Warpath Ghoul","M12",false
+2,"Mind Rot","M12",false
+2,"Taste of Blood","M12",false
+2,"Hideous Visage","M12",false
+2,"Merfolk Looter","M10",false
+2,"Holy Strength","M10",false
+2,"Soul Warden","M10",false
+2,"Blinding Mage","M10",false
+2,"Stormfront Pegasus","M10",false
+2,"Convincing Mirage","M10",false
+2,"Burst of Speed","M10",false
+2,"Cancel","10E",false
+2,"Robe of Mirrors","10E",false
+2,"Untamed Wilds","6ED",false
+2,"Fog","6ED",false
+2,"Unsummon","4ED",false
+2,"Pieces of the Puzzle","SOI",false
+2,"Just the Wind","SOI",false
+2,"Root Out","SOI",false
+2,"Byway Courier","SOI",false
+2,"Moldgraf Scavenger","SOI",false
+2,"Crow of Dark Tidings","SOI",false
+2,"Loam Dryad","SOI",false
+2,"Uncaged Fury","SOI",false
+2,"Bloodmad Vampire","SOI",false
+2,"Twins of Maurer Estate","SOI",false
+2,"Macabre Waltz","SOI",false
+2,"Sleep Paralysis","SOI",false
+2,"Vildin-Pack Outcast","EMN",false
+2,"Falkenrath Reaver","EMN",false
+2,"Graf Rats","EMN",false
+2,"Midnight Scavengers","EMN",false
+2,"Incendiary Flow","EMN",false
+2,"Weaver of Lightning","EMN",false
+2,"Dream's Grip","MRD",false
+2,"Ember Gale","SHM",false
+2,"Farhaven Elf","SHM",false
+2,"Apothecary Initiate","SHM",false
+2,"Rune-Cervin Rider","SHM",false
+2,"Inescapable Brute","SHM",false
+2,"Blistering Dieflyn","SHM",false
+2,"Impaler Shrike","NPH",false
+2,"Psychic Barrier","NPH",false
+2,"Steamcore Weird","GPT",false
+2,"Brainspoil","RAV",false
+2,"Dogpile","RAV",false
+2,"Fists of Ironwood","RAV",false
+2,"Stand Firm","5DN",false
+2,"Sanctum Gargoyle","ARC",false
+2,"Echoing Calm","DST",false
+2,"Drooling Ogre","DST",false
+2,"Silt Crawler","PCY",false
+2,"Rushwood Herbalist","MMQ",false
+2,"Soltari Foot Soldier","TMP",false
+2,"Monstrify","EVE",false
+2,"Nettle Sentinel","EVE",false
+2,"Wickerbough Elder","EVE",false
+2,"Hotheaded Giant","EVE",false
+2,"Cenn's Enlistment","EVE",false
+2,"Seraph","ICE",false
+2,"Shatter","ICE",false
+2,"Shield Bearer","ICE",false
+2,"Grave Scrabbler","FUT",false
+2,"Quiet Disrepair","FUT",false
+2,"Llanowar Augur","FUT",false
+2,"Henchfiend of Ukor","FUT",false
+2,"Blade of the Sixth Pride","FUT",false
+2,"Sporoloth Ancient","FUT",false
+2,"Lure","10E",false
+2,"Youthful Knight","10E",false
+2,"Gossamer Chains","VIS",false
+2,"Strength of Arms","SOI",false
+2,"Inquisitor's Ox","SOI",false
+2,"Devilthorn Fox","SOI",false
+2,"Thraben Inspector","SOI",false
+2,"Wildwood Rebirth","GTC",false
+2,"Tranquility","7ED",false
+2,"Whiptail Moloch","DIS",false
+2,"Grappler Spider","WWK",false
+2,"Warren-Scourge Elf","LRW",false
+2,"Consuming Bonfire","LRW",false
+2,"Spectral Bears","HML",false
+2,"Fungal Bloom","FEM",false
+2,"Quiet Purity","CHK",false
+2,"Kami of the Hunt","CHK",false
+2,"Feral Deceiver","CHK",false
+2,"Venerable Kumo","CHK",false
+2,"Fire Drake","DRK",false
 1,"Mardu Hateblade","KTK",false
+1,"Shoulder to Shoulder","OGW",false
+1,"Rotting Mastodon","KTK",false
+1,"Kor Cartographer","ZEN",false
+1,"Heartstabber Mosquito","ZEN",false
+1,"Oppressive Rays","M15",false
+1,"Tireless Missionaries","M15",false
+1,"Soulmender","M15",false
+1,"Selfless Cathar","M15",false
+1,"Reliquary Monk","UDS",false
+1,"Capashen Standard","UDS",false
+1,"Capashen Knight","UDS",false
+1,"Student of Ojutai","DTK",false
+1,"Sandcrafter Mage","DTK",false
+1,"Center Soul","DTK",false
+1,"Smolder Initiate","SHM",false
+1,"Cinderhaze Wretch","SHM",false
+1,"Corrosive Mentor","SHM",false
+1,"Splitting Headache","SHM",false
+1,"Disturbing Plot","SHM",false
+1,"Tandem Tactics","BFZ",false
+1,"Gideon's Reproach","BFZ",false
+1,"Lithomancer's Focus","BFZ",false
+1,"Inspired Charge","BFZ",false
+1,"Shadow Glider","BFZ",false
+1,"Ondu Greathorn","BFZ",false
+1,"Stone Haven Medic","BFZ",false
+1,"Felidar Cub","BFZ",false
+1,"Kor Castigator","BFZ",false
+1,"Kitesail Scout","BFZ",false
+1,"Cliffside Lookout","BFZ",false
+1,"Makindi Patrol","BFZ",false
+1,"Angelic Gift","BFZ",false
+1,"Sheer Drop","BFZ",false
+1,"Lone Missionary","ROE",false
+1,"Wall of Omens","ROE",false
+1,"Soul's Attendant","ROE",false
+1,"Glory Seeker","ROE",false
+1,"Puncturing Light","ROE",false
+1,"Repel the Darkness","ROE",false
+1,"Harmless Assault","ROE",false
+1,"Eland Umbra","ROE",false
+1,"Wall of Swords","6ED",false
+1,"Enlightened Tutor","6ED",false
+1,"Perish","6ED",false
+1,"Abyssal Specter","6ED",false
+1,"Raging Goblin","6ED",false
+1,"Stone Rain","6ED",false
+1,"Flashfires","6ED",false
+1,"Wall of Fire","6ED",false
+1,"Mesa Pegasus","4ED",false
+1,"Winter Blast","4ED",false
+1,"Shanodin Dryads","4ED",false
+1,"Pradesh Gypsies","4ED",false
+1,"Channel","4ED",false
+1,"Flashfires","4ED",false
+1,"Reverse Damage","4ED",false
+1,"Northern Paladin","4ED",false
+1,"Terror","4ED",false
+1,"Disenchant","4ED",false
+1,"Circle of Protection Black","4ED",false
+1,"Wall of Swords","4ED",false
+1,"Tundra Wolves","4ED",false
+1,"Balance","4ED",false
+1,"Arashin Cleric","FRF",false
+1,"Pressure Point","FRF",false
+1,"Abzan Skycaptain","FRF",false
+1,"Great-Horn Krushok","FRF",false
+1,"Sandblast","FRF",false
+1,"Abzan Advantage","FRF",false
+1,"Court Homunculus","CON",false
+1,"Rhox Meditant","CON",false
+1,"Valiant Guard","CON",false
+1,"Darklit Gargoyle","CON",false
+1,"Sedraxis Alchemist","CON",false
+1,"Kranioceros","CON",false
+1,"Molten Frame","CON",false
+1,"Quenchable Fire","CON",false
+1,"Maniacal Rage","CON",false
+1,"Wandering Goblins","CON",false
+1,"Dregscape Zombie","ALA",false
+1,"Executioner's Capsule","ALA",false
+1,"Resounding Silence","ALA",false
+1,"Welkin Guide","ALA",false
+1,"Sighted-Caste Sorcerer","ALA",false
+1,"Thunder-Thrash Elder","ALA",false
+1,"Viscera Dragger","ALA",false
+1,"Ridge Rannet","ALA",false
+1,"Bloodthorn Taunter","ALA",false
+1,"Goblin Mountaineer","ALA",false
+1,"Viashino Skeleton","ALA",false
+1,"Dragon Fodder","ALA",false
+1,"Selfless Cathar","ISD",false
+1,"Abbey Griffin","ISD",false
+1,"Brain Weevil","ISD",false
+1,"Night Terrors","ISD",false
+1,"Ancient Grudge","ISD",false
+1,"Spider Spawning","ISD",false
+1,"Selesnya Sentry","RTR",false
+1,"Armory Guard","RTR",false
+1,"Ethereal Armor","RTR",false
+1,"Swift Justice","RTR",false
+1,"Ray of Dissolution","THS",false
+1,"Setessan Battle Priest","THS",false
+1,"Silent Artisan","THS",false
+1,"Battlewise Valor","THS",false
+1,"Gods Willing","THS",false
+1,"Hopeful Eidolon","THS",false
+1,"Lagonna-Band Elder","THS",false
+1,"Font of Vigor","JOU",false
+1,"Cruel Feeding","JOU",false
+1,"Hold at Bay","BNG",false
+1,"Griffin Dreamfinder","BNG",false
+1,"Elite Skirmisher","BNG",false
+1,"Stonewise Fortifier","JOU",false
+1,"Loyal Pegasus","BNG",false
+1,"Mortal's Ardor","BNG",false
+1,"Cast into Darkness","JOU",false
+1,"Bloodcrazed Hoplite","JOU",false
+1,"Font of Return","JOU",false
+1,"Flamespeaker's Will","JOU",false
+1,"Starfall","JOU",false
+1,"Flurry of Horns","JOU",false
+1,"Returned Reveler","JOU",false
+1,"Magma Spray","JOU",false
+1,"Mortal Obstinacy","JOU",false
+1,"Redeem the Lost","MOR",false
+1,"Wandering Graybeard","MOR",false
+1,"Stonybrook Schoolmaster","MOR",false
+1,"Weed-Pruner Poplar","MOR",false
+1,"Ballyrush Banneret","MOR",false
+1,"Violet Pall","MOR",false
+1,"Blightsoil Druid","MOR",false
+1,"Frogtosser Banneret","MOR",false
+1,"Morsel Theft","MOR",false
+1,"Nightshade Schemers","MOR",false
+1,"Offalsnout","MOR",false
+1,"Pack's Disdain","MOR",false
+1,"Final-Sting Faerie","MOR",false
+1,"Heavy Infantry","ORI",false
+1,"Catacomb Slug","ORI",false
+1,"Shambling Ghoul","ORI",false
+1,"Unholy Hunger","ORI",false
+1,"Nantuko Husk","ORI",false
+1,"Act of Treason","ORI",false
+1,"Lightning Javelin","ORI",false
+1,"Macabre Waltz","ORI",false
+1,"Volcanic Rambler","ORI",false
+1,"Reave Soul","ORI",false
+1,"Ghirapur Gearcrafter","ORI",false
+1,"Prickleboar","ORI",false
+1,"Bellows Lizard","ORI",false
+1,"Returned Centaur","ORI",false
+1,"Pay No Heed","M14",false
+1,"Blood Bairn","M14",false
+1,"Festering Newt","M14",false
+1,"Corpse Hauler","M14",false
+1,"Loxodon Wayfarer","SOM",false
+1,"Withstand Death","SOM",false
+1,"Bleak Coven Vampires","SOM",false
+1,"Grasp of Darkness","SOM",false
+1,"Oxidda Daredevil","SOM",false
+1,"Embersmith","SOM",false
+1,"Ogre Geargrabber","SOM",false
+1,"Assault Strobe","SOM",false
+1,"Furnace Celebration","SOM",false
+1,"Arc Trail","SOM",false
+1,"Blade-Tribe Berserkers","SOM",false
+1,"Melt Terrain","SOM",false
+1,"Copperhorn Scout","SOM",false
+1,"Untamed Might","SOM",false
+1,"Tel-Jilad Defiance","SOM",false
+1,"Wing Puncture","SOM",false
+1,"Relic Putrescence","SOM",false
+1,"Moriok Reaver","SOM",false
+1,"Plague Stinger","SOM",false
+1,"Dross Hopper","SOM",false
+1,"Contagious Nim","SOM",false
+1,"Ichor Rats","SOM",false
+1,"Sunspear Shikari","SOM",false
+1,"Necrogen Scudder","SOM",false
+1,"Salvage Scout","SOM",false
+1,"Auriok Sunchaser","SOM",false
+1,"Abuna Acolyte","SOM",false
+1,"Ghalma's Warden","SOM",false
+1,"Auriok Edgewright","SOM",false
+1,"Blackcleave Goblin","SOM",false
+1,"Glint Hawk","SOM",false
+1,"Kor Sky Climber","OGW",false
+1,"Isolation Zone","OGW",false
+1,"Tar Snare","OGW",false
+1,"Kozilek's Translator","OGW",false
+1,"Zada's Commando","OGW",false
+1,"Goblin Freerunner","OGW",false
+1,"Eldrazi Aggressor","OGW",false
+1,"Lead by Example","OGW",false
+1,"Pulse of Murasa","OGW",false
+1,"Scion Summoner","OGW",false
+1,"Elemental Uprising","OGW",false
+1,"Vines of the Recluse","OGW",false
+1,"Sky Scourer","OGW",false
+1,"Akoum Flameseeker","OGW",false
+1,"Sparkmage's Gambit","OGW",false
+1,"Corpse Churn","OGW",false
+1,"Searing Light","OGW",false
+1,"Expedite","OGW",false
+1,"Ondu War Cleric","OGW",false
+1,"Mighty Leap","OGW",false
+1,"Affa Protector","OGW",false
+1,"Expedition Raptor","OGW",false
+1,"Spawnbinder Mage","OGW",false
+1,"Serra Zealot","USG",false
+1,"Falter","USG",false
+1,"Lay Waste","USG",false
+1,"Shower of Sparks","USG",false
+1,"Despondency","USG",false
+1,"Heat Ray","USG",false
+1,"Spirit en-Dal","FUT",false
+1,"Revered Dead","PLC",false
+1,"Saltblast","PLC",false
+1,"Circle of Affliction","PLC",false
+1,"Skirk Shaman","PLC",false
+1,"Sandskin","ONS",false
+1,"Excommunicate","M10",false
+1,"Celestial Purge","M10",false
+1,"Mind Rot","M10",false
+1,"Drudge Skeletons","M10",false
+1,"Disentomb","M10",false
+1,"Looming Shade","M10",false
+1,"Burning Inquiry","M10",false
+1,"Wall of Faith","M10",false
+1,"Palace Guard","M10",false
+1,"Trumpet Blast","M10",false
+1,"Dragon Whelp","M10",false
+1,"Prized Unicorn","M10",false
+1,"Llanowar Elves","M10",false
+1,"Niveous Wisps","SHM",false
+1,"Barrenton Medic","SHM",false
+1,"Kithkin Shielddare","SHM",false
+1,"Dying Wail","UDS",false
+1,"Bubbling Muck","UDS",false
+1,"Skittering Horror","UDS",false
+1,"Slinking Skirge","UDS",false
+1,"Vow of Wildness","CMD",false
+1,"Oblivion Ring","CMD",false
+1,"Vow of Duty","CMD",false
+1,"Spike Feeder","CMD",false
+1,"Squallmonger","CMD",false
+1,"Fists of Ironwood","CMD",false
+1,"Fertilid","CMD",false
+1,"Tribute to the Wild","CMD",false
+1,"Aquastrand Spider","CMD",false
+1,"Nantuko Husk","CMD",false
+1,"Nemesis Trap","CMD",false
+1,"Shriekmaw","CMD",false
+1,"Cobra Trap","CMD",false
+1,"Bestial Menace","CMD",false
+1,"Syphon Mind","CMD",false
+1,"Drifting Meadow","USG",false
+1,"Smoldering Crater","USG",false
+1,"Blossoming Sands","EMA",false
+1,"Twisted Abomination","EMA",false
+1,"Pacifism","EMA",false
+1,"Elite Vanguard","EMA",false
+1,"Glimmerpoint Stag","EMA",false
+1,"Ichorid","EMA",false
+1,"Scoured Barrens","EMA",false
+1,"Memory Lapse","EMA",false
+1,"Dream Twist","EMA",false
+1,"Undying Rage","EMA",true
+1,"Worn Powerstone","EMA",false
+1,"Harmonize","EMA",false
+1,"Yavimaya Enchantress","EMA",false
+1,"Keldon Marauders","EMA",false
+1,"Elephant Guide","EMA",false
+1,"Mental Note","JUD",false
+1,"Benevolent Bodyguard","JUD",false
+1,"Ironshell Beetle","JUD",false
+1,"Book Burning","JUD",false
+1,"Lava Dart","JUD",false
+1,"Disrupt","WTH",false
+1,"Fatal Blow","WTH",false
+1,"Stoic Rebuttal","SOM",false
+1,"Scrapdiver Serpent","SOM",false
+1,"Halt Order","SOM",false
+1,"Volition Reins","SOM",false
+1,"Ghitu War Cry","ULG",false
+1,"Thornwind Faeries","ULG",false
+1,"Peel from Reality","RAV",false
+1,"Courier Hawk","RAV",false
+1,"Cleansing Beam","RAV",false
+1,"Barbarian Riftcutter","RAV",false
+1,"Viashino Fangtail","RAV",false
+1,"Goblin Fire Fiend","RAV",false
+1,"Root-Kin Ally","RAV",false
+1,"Stone-Seeder Hierophant","RAV",false
+1,"Frenzied Goblin","RAV",false
+1,"Greater Mossdog","RAV",false
+1,"Scatter the Seeds","RAV",false
+1,"Muddle the Mixture","RAV",false
+1,"Early Frost","5DN",false
+1,"Vanquish","5DN",false
+1,"Nim Grotesque","5DN",false
+1,"Spark Elemental","5DN",false
+1,"Alesha's Vanguard","FRF",false
+1,"Smoldering Efreet","FRF",false
+1,"Mardu Scout","FRF",false
+1,"Tasigur's Cruelty","FRF",false
+1,"Goblin Heelcutter","FRF",false
+1,"Temur Battle Rage","FRF",false
+1,"Ancestral Vengeance","FRF",false
+1,"Collateral Damage","FRF",false
+1,"Hooded Assassin","FRF",false
+1,"Defiant Ogre","FRF",false
+1,"Frontier Mastodon","FRF",false
+1,"Whisperer of the Wilds","FRF",false
+1,"Archers of Qarsi","FRF",false
+1,"Feral Krushok","FRF",false
+1,"Ambush Krotiq","FRF",false
+1,"Return to the Earth","FRF",false
+1,"Temur Runemark","FRF",false
+1,"Map the Wastes","FRF",false
+1,"Sultai Skullkeeper","FRF",false
+1,"Write into Being","FRF",false
+1,"Lotus Path Djinn","FRF",false
+1,"Rakshasa's Disdain","FRF",false
+1,"Whisk Away","FRF",false
+1,"Will of the Naga","FRF",false
+1,"Teardrop Kami","BOK",false
+1,"Shimmering Glasskite","BOK",false
+1,"Heart of Light","BOK",false
+1,"Terashi's Grasp","BOK",false
+1,"Blinding Drone","OGW",false
+1,"Slip Through Space","OGW",false
+1,"Negate","OGW",false
+1,"Jwar Isle Avenger","OGW",false
+1,"Ancient Crab","OGW",false
+1,"Hedron Scrabbler","ZEN",false
+1,"Explorer's Scope","ZEN",false
+1,"Shoal Serpent","ZEN",false
+1,"Windrider Eel","ZEN",false
+1,"Whiplash Trap","ZEN",false
+1,"Grazing Gladehart","ZEN",false
+1,"Nissa's Chosen","ZEN",false
+1,"Zendikar Farguide","ZEN",false
+1,"Harrow","ZEN",false
+1,"Welkin Tern","ZEN",false
+1,"Cloud Manta","BFZ",false
+1,"Incubator Drone","BFZ",false
+1,"Mist Intruder","BFZ",false
+1,"Oracle of Dust","BFZ",false
+1,"Rush of Ice","BFZ",false
+1,"Dispel","BFZ",false
+1,"Brilliant Spectrum","BFZ",false
+1,"Altar's Reap","BFZ",false
+1,"Swarm Surge","BFZ",false
+1,"Culling Drone","BFZ",false
+1,"Valakut Invoker","BFZ",false
+1,"Ondu Champion","BFZ",false
+1,"Mire's Malice","BFZ",false
+1,"Belligerent Whiptail","BFZ",false
+1,"Mind Raker","BFZ",false
+1,"Complete Disregard","BFZ",false
+1,"Kozilek's Sentinel","BFZ",false
+1,"Reckless Cohort","BFZ",false
+1,"Nirkana Assassin","BFZ",false
+1,"Dominator Drone","BFZ",false
+1,"Stonefury","BFZ",false
+1,"Boiling Earth","BFZ",false
+1,"Outnumber","BFZ",false
+1,"Kalastria Healer","BFZ",false
+1,"Dutiful Return","BFZ",false
+1,"Geyserfield Stalker","BFZ",false
+1,"Sludge Crawler","BFZ",false
+1,"Tajuru Stalwart","BFZ",false
+1,"Earthen Arms","BFZ",false
+1,"Unnatural Aggression","BFZ",false
+1,"Call the Scions","BFZ",false
+1,"Plummet","BFZ",false
+1,"Broodhunter Wurm","BFZ",false
+1,"Blisterpod","BFZ",false
+1,"Valakut Predator","BFZ",false
+1,"Seek the Wilds","BFZ",false
+1,"Natural Connection","BFZ",false
+1,"Territorial Baloth","BFZ",false
+1,"Snapping Gnarlid","BFZ",false
+1,"Swell of Growth","BFZ",false
+1,"Tajuru Beastmaster","BFZ",false
+1,"Oran-Rief Invoker","BFZ",false
+1,"Giant Mantis","BFZ",false
+1,"Makindi Sliderunner","BFZ",false
+1,"Volcanic Upheaval","BFZ",false
+1,"Touch of the Void","BFZ",false
+1,"Lifespring Druid","BFZ",false
+1,"Clutch of Currents","BFZ",false
+1,"Mnemonic Wall","ROE",false
+1,"Distortion Strike","ROE",false
+1,"Jwari Scuttler","ROE",false
+1,"Shared Discovery","ROE",false
+1,"Naturalize","ROE",false
+1,"Heat Ray","ROE",false
+1,"Goblin Arsonist","ROE",false
+1,"Ancient Stirrings","ROE",false
+1,"Wildheart Invoker","ROE",false
+1,"Kozilek's Predator","ROE",false
+1,"Flame Slash","ROE",false
+1,"Fissure Vent","ROE",false
+1,"Lavafume Invoker","ROE",false
+1,"Goblin Tunneler","ROE",false
+1,"Emrakul's Hatcher","ROE",false
+1,"Leaf Arrow","ROE",false
+1,"Staggershock","ROE",false
+1,"Growth Spasm","ROE",false
+1,"Battle-Rattle Shaman","ROE",false
+1,"Nest Invader","ROE",false
+1,"Raid Bombardment","ROE",false
+1,"Brood Birthing","ROE",false
+1,"Wrap in Flames","ROE",false
+1,"Spawning Breath","ROE",false
+1,"Sea Gate Oracle","ROE",false
+1,"Bloodrite Invoker","ROE",false
+1,"Contaminated Ground","ROE",false
+1,"Nighthaze","ROE",false
+1,"Bala Ged Scorpion","ROE",false
+1,"Death Cultist","ROE",false
+1,"Perish the Thought","ROE",false
+1,"Induce Despair","ROE",false
+1,"View from Above","CON",false
+1,"Brackwater Elemental","CON",false
+1,"Suicidal Charge","CON",false
+1,"Skyward Eye Prophets","CON",false
+1,"Vedalken Outlander","CON",false
+1,"Worldly Counsel","CON",false
+1,"Sylvan Bounty","CON",false
+1,"Ember Weaver","CON",false
+1,"Might of Alara","CON",false
+1,"Nacatl Savage","CON",false
+1,"Esperzoa","CON",false
+1,"Courier's Capsule","ALA",false
+1,"Tortoise Formation","ALA",false
+1,"Esper Battlemage","ALA",false
+1,"Sangrite Surge","ALA",false
+1,"Sigil Blessing","ALA",false
+1,"Obelisk of Esper","ALA",false
+1,"Grixis Panorama","ALA",false
+1,"Cloudheath Drake","ALA",false
+1,"Carrion Thrash","ALA",false
+1,"Court Archers","ALA",false
+1,"Naturalize","ALA",false
+1,"Elvish Visionary","ALA",false
+1,"Resounding Roar","ALA",false
+1,"Thoughtcutter Agent","ALA",false
+1,"Spin into Myth","ARC",false
+1,"Metallurgeon","ARC",false
+1,"Vex","DST",false
+1,"Echoing Decay","DST",false
+1,"Echoing Courage","DST",false
+1,"Krark-Clan Stoker","DST",false
+1,"Reap and Sow","DST",false
+1,"Barbed Lightning","DST",false
+1,"Prohibit","INV",false
+1,"Explosive Growth","INV",false
+1,"Nightscape Apprentice","INV",false
+1,"Llanowar Vanguard","INV",false
+1,"Harrow","INV",false
+1,"Aggressive Urge","INV",false
+1,"Symbol of Unsummoning","POR",false
+1,"Living Airship","APC",false
+1,"Zombie Boa","APC",false
+1,"Bloodfire Infusion","APC",false
+1,"Lay of the Land","APC",false
+1,"Sisay's Ingenuity","PLS",false
+1,"Pygmy Kavu","PLS",false
+1,"Alexi's Cloak","PCY",false
+1,"Rethink","PCY",false
+1,"Latulla's Orders","PCY",false
+1,"Devastate","PCY",false
+1,"Excise","PCY",false
+1,"Mirror Strike","PCY",false
+1,"Voidwielder","RTR",false
+1,"Doorkeeper","RTR",false
+1,"Rakdos Guildgate","RTR",false
+1,"Vassal Soul","RTR",false
+1,"Dispel","RTR",false
+1,"Drainpipe Vermin","RTR",false
+1,"Daggerdrome Imp","RTR",false
+1,"Sewer Shambler","RTR",false
+1,"Ogre Jailbreaker","RTR",false
+1,"Druid's Deliverance","RTR",false
+1,"Gatecreeper Vine","RTR",false
+1,"Centaur's Herald","RTR",false
+1,"Drudge Beetle","RTR",false
+1,"Traitorous Instinct","RTR",false
+1,"Dynacharge","RTR",false
+1,"Survey the Wreckage","RTR",false
+1,"Lobber Crew","RTR",false
+1,"Gore-House Chainwalker","RTR",false
+1,"Axebane Guardian","RTR",false
+1,"Viashino Racketeer","RTR",false
+1,"Korozda Monitor","RTR",false
+1,"Catacomb Slug","RTR",false
+1,"Tower Drake","RTR",false
+1,"Coastline Chimera","THS",false
+1,"Pharika's Mender","THS",false
+1,"Sip of Hemlock","THS",false
+1,"Traveler's Amulet","THS",false
+1,"Unknown Shores","THS",false
+1,"Annul","THS",false
+1,"Voyaging Satyr","THS",false
+1,"Nylea's Presence","THS",false
+1,"Shredding Winds","THS",false
+1,"Nessian Courser","THS",false
+1,"Agent of Horizons","THS",false
+1,"Viper's Kiss","THS",false
+1,"Returned Phalanx","THS",false
+1,"Demolish","THS",false
+1,"Satyr Rambler","THS",false
+1,"Borderland Minotaur","THS",false
+1,"Priest of Iroas","THS",false
+1,"Lightning Strike","THS",false
+1,"Rage of Purphoros","THS",false
+1,"Wild Celebrants","THS",false
+1,"Lost in a Labyrinth","THS",false
+1,"Diplomatic Immunity","MMQ",false
+1,"Tranquility","MMQ",false
+1,"Giant Caterpillar","MMQ",false
+1,"Moment of Silence","MMQ",false
+1,"Cho-Manno's Blessing","MMQ",false
+1,"Dream Cache","TMP",false
+1,"Spinal Graft","TMP",false
+1,"Mogg Raider","TMP",false
+1,"Stun","TMP",false
+1,"Volrath's Curse","TMP",false
+1,"Shimmering Wings","TMP",false
+1,"Dismiss","TMP",false
+1,"Skyshroud Elf","TMP",false
+1,"Seeker of Skybreak","TMP",false
+1,"Stinging Licid","TMP",false
+1,"Ertai's Meddling","TMP",false
+1,"Time Ebb","TMP",false
+1,"Power Sink","TMP",false
+1,"Godhunter Octopus","JOU",false
+1,"Thassa's Devourer","JOU",false
+1,"Countermand","JOU",false
+1,"Stormchaser Chimera","JOU",false
+1,"Satyr Grovedancer","JOU",false
+1,"Armory of Iroas","JOU",false
+1,"Golden Hind","JOU",false
+1,"Weight of the Underworld","BNG",false
+1,"Bolt of Keranos","BNG",false
+1,"Setessan Starbreaker","BNG",false
+1,"March of the Returned","THS",false
+1,"Marshmist Titan","BNG",false
+1,"Pharagax Giant","BNG",false
+1,"Crypsis","BNG",false
+1,"Asphyxiate","BNG",false
+1,"Fall of the Hammer","BNG",false
+1,"Nyxborn Eidolon","BNG",false
+1,"Eye Gouge","BNG",false
+1,"Floodtide Serpent","BNG",false
+1,"Chorus of the Tides","BNG",false
+1,"Evanescent Intellect","BNG",false
+1,"Siren of the Silent Song","BNG",false
+1,"Ephara's Enlightenment","BNG",false
+1,"Gorgon's Head","BNG",false
+1,"Retraction Helix","BNG",false
+1,"Stomping Slabs","MOR",false
+1,"Brighthearth Banneret","MOR",false
+1,"Spitebellows","MOR",false
+1,"War-Spike Changeling","MOR",false
+1,"Everbark Shaman","MOR",false
+1,"Hostile Realm","MOR",false
+1,"Rage Forger","MOR",false
+1,"Seething Pathblazer","MOR",false
+1,"Kindled Fury","MOR",false
+1,"Heritage Druid","MOR",false
+1,"Orchard Warden","MOR",false
+1,"Hunting Triad","MOR",false
+1,"Bosk Banneret","MOR",false
+1,"Luminescent Rain","MOR",false
+1,"Ink Dissolver","MOR",false
+1,"Mothdust Changeling","MOR",false
+1,"Negate","MOR",false
+1,"Thieves' Fortune","MOR",false
+1,"Distant Melody","MOR",false
+1,"Fencer Clique","MOR",false
+1,"Dewdrop Spy","MOR",false
+1,"Disperse","MOR",false
+1,"Dream Fracture","EVE",false
+1,"Tilling Treefolk","EVE",false
+1,"Endure","EVE",false
+1,"Ballynock Trapper","EVE",false
+1,"Raven's Crime","EVE",false
+1,"Unwilling Recruit","EVE",false
+1,"Flame Jab","EVE",false
+1,"Chaotic Backlash","EVE",false
+1,"Elvish Visionary","ORI",false
+1,"Leaf Gilder","ORI",false
+1,"Titanic Growth","ORI",false
+1,"Nissa's Pilgrimage","ORI",false
+1,"Yeva's Forcemage","ORI",false
+1,"Wild Instincts","ORI",false
+1,"Orchard Spirit","ORI",false
+1,"Aerial Volley","ORI",false
+1,"Caustic Caterpillar","ORI",false
+1,"Scrapskin Drake","ORI",false
+1,"Send to Sleep","ORI",false
+1,"Separatist Voidmage","ORI",false
+1,"Calculated Dismissal","ORI",false
+1,"Nivix Barrier","ORI",false
+1,"Ringwarden Owl","ORI",false
+1,"Aspiring Aeronaut","ORI",false
+1,"Stasis Cell","CNS",false
+1,"Kor Chant","CNS",false
+1,"Traveler's Cloak","CNS",false
+1,"Lizard Warrior","CNS",false
+1,"Pillarfield Ox","CNS",false
+1,"Doomed Traveler","CNS",false
+1,"Grudge Keeper","CNS",false
+1,"Stronghold Discipline","CNS",false
+1,"Necromantic Thirst","CNS",false
+1,"Tragic Slip","CNS",false
+1,"Nature's Claim","CNS",false
+1,"Echoing Courage","CNS",false
+1,"Elvish Aberration","CNS",false
+1,"Sakura-Tribe Elder","CNS",false
+1,"Tidal Surge","STH",false
+1,"Samite Blessing","STH",false
+1,"Leap","STH",false
+1,"Echo Tracer","LGN",false
+1,"Glowering Rogon","LGN",false
+1,"Word of Undoing","ICE",false
+1,"Lure","ICE",false
+1,"Total War","ICE",false
+1,"Lava Burst","ICE",false
+1,"Essence Filter","ICE",false
+1,"Foxfire","ICE",false
+1,"Wall of Lava","ICE",false
+1,"Stone Rain","ICE",false
+1,"Battle Frenzy","ICE",false
+1,"Essence Flare","ICE",false
+1,"Snow Devil","ICE",false
+1,"Arnjlot's Ascent","ICE",false
+1,"Teferi's Drake","MIR",false
+1,"Wall of Resistance","MIR",false
+1,"Rampant Growth","MIR",false
+1,"Preferred Selection","MIR",false
+1,"Memory Lapse","MIR",false
+1,"Sarcomite Myr","FUT",false
+1,"Whip-Spine Drake","FUT",false
+1,"Oblivion Crown","FUT",false
+1,"Putrid Cyclops","FUT",false
+1,"Death Rattle","FUT",false
+1,"Witch's Mist","FUT",false
+1,"Ichor Slick","FUT",false
+1,"Riddle of Lightning","FUT",false
+1,"Venser's Diffusion","FUT",false
+1,"Nessian Courser","FUT",false
+1,"Citanul Woodreaders","PLC",false
+1,"Uktabi Drake","PLC",false
+1,"Surging Æther","CSP",false
+1,"Kjeldoran Javelineer","CSP",false
+1,"Kjeldoran Outrider","CSP",false
+1,"Squall Drifter","CSP",false
+1,"Swift Maneuver","CSP",false
+1,"Luminesce","CSP",false
+1,"Zombie Musher","CSP",false
+1,"Magmatic Core","CSP",false
+1,"Goblin Rimerunner","CSP",false
+1,"Icefall","CSP",false
+1,"Into the North","CSP",false
+1,"Haunted Cadaver","ONS",false
+1,"Fever Charm","ONS",false
+1,"Wirewood Elf","ONS",false
+1,"Dirge of Dread","ONS",false
+1,"Fallen Cleric","ONS",false
+1,"Swat","ONS",false
+1,"Spined Basher","ONS",false
+1,"Screeching Buzzard","ONS",false
+1,"Crown of Suspicion","ONS",false
+1,"Syphon Soul","ONS",false
+1,"Wretched Anurid","ONS",false
+1,"Nantuko Husk","ONS",false
+1,"Anurid Murkdiver","ONS",false
+1,"Misery Charm","ONS",false
+1,"Accursed Centaur","ONS",false
+1,"Graxiplon","ONS",false
+1,"Errant Ephemeron","TSP",false
+1,"Eternity Snare","TSP",false
+1,"Screeching Sliver","TSP",false
+1,"Strength in Numbers","TSP",false
+1,"Skulking Knight","TSP",false
+1,"Cavalry Master","TSP",false
+1,"Gustcloak Cavalier","TSP",false
+1,"Sporesower Thallid","TSP",false
+1,"Evil Eye of Urborg","TSP",false
+1,"Clockspinning","TSP",false
+1,"Fathom Seer","TSP",false
+1,"Warden of the Eye","KTK",false
+1,"Ainok Tracker","KTK",false
+1,"Canyon Lurkers","KTK",false
+1,"Longshot Squad","KTK",false
+1,"Duress","DTK",false
+1,"Butcher's Glee","DTK",false
+1,"Shambling Goblin","DTK",false
+1,"Epic Confrontation","DTK",false
+1,"Glade Watcher","DTK",false
+1,"Naturalize","DTK",false
+1,"Sheltered Aerie","DTK",false
+1,"Contradict","DTK",false
+1,"Ojutai's Breath","DTK",false
+1,"Ojutai Interceptor","DTK",false
+1,"Zephyr Scribe","DTK",false
+1,"Taigam's Strike","DTK",false
+1,"Monastery Loremaster","DTK",false
+1,"Kolaghan Skirmisher","DTK",false
+1,"Sibsig Icebreakers","DTK",false
+1,"Volcanic Rush","DTK",false
+1,"Sarkhan's Rage","DTK",false
+1,"Impact Tremors","DTK",false
+1,"Lose Calm","DTK",false
+1,"Vandalize","DTK",false
+1,"Summit Prowler","DTK",false
+1,"Gravepurge","DTK",false
+1,"Gurmag Drowner","DTK",false
+1,"Statute of Denial","M15",false
+1,"Welkin Tern","M15",false
+1,"Chronostutter","M15",false
+1,"Negate","M15",false
+1,"Mind Rot","M15",false
+1,"Clear a Path","M15",false
+1,"Wall of Fire","M15",false
+1,"Crippling Blight","M15",false
+1,"Hunter's Ambush","M15",false
+1,"Elvish Mystic","M15",false
+1,"Titanic Growth","M15",false
+1,"Witch's Familiar","M15",false
+1,"Lightning Strike","M15",false
+1,"Act on Impulse","M15",false
+1,"Ranger's Guile","M14",false
+1,"Elvish Mystic","M14",false
+1,"Merfolk Spy","M14",false
+1,"Essence Scatter","M14",false
+1,"Murder","M13",false
+1,"Chandra's Fury","M13",false
+1,"Giant Scorpion","M13",false
+1,"Encrust","M13",false
+1,"Index","M13",false
+1,"Divination","M13",false
+1,"Watercourser","M13",false
+1,"Mind Rot","M13",false
+1,"Tormented Soul","M13",false
+1,"Titanic Growth","M13",false
+1,"Merfolk of the Pearl Trident","M13",false
+1,"Lightning Elemental","M12",false
+1,"Phantasmal Bear","M12",false
+1,"Ice Cage","M12",false
+1,"Shock","M12",false
+1,"Devouring Swarm","M12",false
+1,"Ajani's Mantra","M11",false
+1,"Goldenglow Moth","M11",false
+1,"Viscera Seer","M11",false
+1,"Prodigal Pyromancer","M11",false
+1,"Berserkers of Blood Ridge","M11",false
+1,"Fog","M11",false
+1,"Hornet Sting","M11",false
+1,"Awakener Druid","M11",false
+1,"Spined Wurm","M11",false
+1,"Augury Owl","M11",false
+1,"Unsummon","M11",false
+1,"Cancel","M10",false
+1,"Disorient","M10",false
+1,"Flashfreeze","M10",false
+1,"Unsummon","10E",false
+1,"Aura Graft","10E",false
+1,"Giant Spider","10E",false
+1,"Canopy Spider","10E",false
+1,"Demolish","10E",false
+1,"Heart of Light","10E",false
+1,"Holy Day","10E",false
+1,"Ghost Warden","10E",false
+1,"Suntail Hawk","10E",false
+1,"Tundra Wolves","10E",false
+1,"Elvish Berserker","10E",false
+1,"Sylvan Scrying","10E",false
+1,"Goblin Sky Raider","10E",false
+1,"Remove Soul","9ED",false
+1,"Summer Bloom","9ED",false
+1,"Rampant Growth","9ED",false
+1,"Shock","9ED",false
+1,"Warrior's Honor","6ED",false
+1,"Prodigal Sorcerer","6ED",false
+1,"Elven Riders","6ED",false
+1,"Lure","6ED",false
+1,"Mystic Veil","VIS",false
+1,"Man-o'-War","VIS",false
+1,"Vision Charm","VIS",false
+1,"Inspiration","VIS",false
+1,"Sun Clasp","VIS",false
+1,"Death Watch","VIS",false
+1,"Rock Slide","VIS",false
+1,"Blanket of Night","VIS",false
+1,"Ray of Command","5ED",false
+1,"Psychic Venom","4ED",false
+1,"Creature Bond","4ED",false
+1,"Siren's Call","4ED",false
+1,"Twiddle","4ED",false
+1,"Blue Elemental Blast","4ED",false
+1,"Hurkyl's Recall","4ED",false
+1,"Spell Blast","4ED",false
+1,"Spell Blast","3ED",false
+1,"Mijae Djinn","3ED",false
+1,"Flashfires","3ED",false
+1,"Farmstead","3ED",false
+1,"Counterspell","4ED",false
+1,"Unsummon","5ED",false
+1,"Unstable Mutation","5ED",false
+1,"Marsh Viper","5ED",false
+1,"Unstable Mutation","4ED",false
+1,"Fork in the Road","SOI",false
+1,"Quilled Wolf","SOI",false
+1,"Stoic Builder","SOI",false
+1,"Might Beyond Reason","SOI",false
+1,"Confront the Unknown","SOI",false
+1,"Aim High","SOI",false
+1,"Vessel of Nascency","SOI",false
+1,"Apothecary Geist","SOI",false
+1,"Cathar's Companion","SOI",false
+1,"Dauntless Cathar","SOI",false
+1,"Inspiring Captain","SOI",false
+1,"Puncturing Light","SOI",false
+1,"Unruly Mob","SOI",false
+1,"Expose Evil","SOI",false
+1,"Survive the Night","SOI",false
+1,"Vessel of Ephemera","SOI",false
+1,"Angelic Purge","SOI",false
+1,"Ethereal Guidance","SOI",false
+1,"Emissary of the Sleepless","SOI",false
+1,"Moorland Drifter","SOI",false
+1,"Stern Constable","SOI",false
+1,"Magmatic Chasm","SOI",false
+1,"Ghoulcaller's Accomplice","SOI",false
+1,"Grotesque Mutation","SOI",false
+1,"Sanitarium Skeleton","SOI",false
+1,"Vampire Noble","SOI",false
+1,"Rottenheart Ghoul","SOI",false
+1,"Stallion of Ashmouth","SOI",false
+1,"Stromkirk Mentor","SOI",false
+1,"Merciless Resolve","SOI",false
+1,"Dual Shot","SOI",false
+1,"Vessel of Volatility","SOI",false
+1,"Fiery Temper","SOI",false
+1,"Reduce to Ashes","SOI",false
+1,"Sanguinary Mage","SOI",false
+1,"Merciless Resolve","SOI",false
+1,"Vessel of Malignity","SOI",false
+1,"Convicted Killer","SOI",false
+1,"Ember-Eye Wolf","SOI",false
+1,"Structural Distortion","SOI",false
+1,"Howlpack Wolf","SOI",false
+1,"Tormenting Voice","SOI",false
+1,"Insolent Neonate","SOI",false
+1,"Voldaren Duelist","SOI",false
+1,"Silent Observer","SOI",false
+1,"Sleep Paralysis","SOI",false
+1,"Ghostly Wings","SOI",false
+1,"Solitary Hunter","SOI",false
+1,"Tenacity","SOI",false
+1,"Woodland Stream","SOI",false
+1,"Liliana's Indignation","SOI",false
+1,"Engulf the Shore","SOI",false
+1,"Reckless Scholar","SOI",false
+1,"Ulrich's Kindred","SOI",false
+1,"Skin Invasion","SOI",false
+1,"Ulvenwald Mysteries","SOI",false
+1,"Ongoing Investigation","SOI",true
+1,"Traverse the Ulvenwald","SOI",false
+1,"Rancid Rats","SOI",false
+1,"True-Faith Censer","SOI",false
+1,"Niblis of Dusk","SOI",false
+1,"Vessel of Paramnesia","SOI",false
+1,"Silburlind Snapper","SOI",false
+1,"Press for Answers","SOI",false
+1,"Gone Missing","SOI",false
+1,"Nagging Thoughts","SOI",false
+1,"Seagraf Skaab","SOI",false
+1,"Deny Existence","SOI",false
+1,"Catalog","SOI",false
+1,"Drownyard Explorers","SOI",false
+1,"Mockery of Nature","EMN",false
+1,"Vexing Scuttler","EMN",false
+1,"Nephalia Academy","EMN",false
+1,"Mournwillow","EMN",false
+1,"It of the Horrid Swarm","EMN",false
+1,"Swift Spinner","EMN",false
+1,"Bloodbriar","EMN",false
+1,"Cemetery Recruitment","EMN",false
+1,"Contingency Plan","EMN",false
+1,"Exultant Cultist","EMN",false
+1,"Lunarch Mantle","EMN",false
+1,"Shreds of Sanity","EMN",false
+1,"Bold Impaler","EMN",false
+1,"Brazen Wolves","EMN",false
+1,"Enlightened Maniac","EMN",false
+1,"Primal Druid","EMN",false
+1,"Ingenious Skaab","EMN",false
+1,"Thraben Foulbloods","EMN",false
+1,"Identity Thief","EMN",false
+1,"Curious Homunculus","EMN",false
+1,"Mind's Dilation","EMN",false
+1,"Spirit of the Hunt","EMN",false
+1,"Convolute","EMN",false
+1,"Blood Mist","EMN",false
+1,"Abandon Reason","EMN",false
+1,"Cryptolith Fragment","EMN",false
+1,"Splendid Reclamation","EMN",true
+1,"Geist-Fueled Scarecrow","EMN",false
+1,"Drownyard Behemoth","EMN",false
+1,"Emrakul's Evangel","EMN",false
+1,"Emrakul's Influence","EMN",false
+1,"Foul Emissary","EMN",false
+1,"Wretched Gryff","EMN",false
+1,"Weirded Vampire","EMN",false
+1,"Cultist's Staff","EMN",false
+1,"Cathar's Shield","EMN",false
+1,"Olivia's Dragoon","EMN",false
+1,"Ironclad Slayer","EMN",false
+1,"Skirsdag Supplicant","EMN",false
+1,"Fiend Binder","EMN",true
+1,"Fiend Binder","EMN",false
+1,"Extricator of Sin","EMN",false
+1,"Liliana's Elite","EMN",false
+1,"Subjugator Angel","EMN",false
+1,"Chilling Grasp","EMN",false
+1,"Drag Under","EMN",false
+1,"Ingenious Skaab","EMN",false
+1,"Ruthless Disposal","EMN",false
+1,"Voldaren Pariah","EMN",false
+1,"Tattered Haunter","EMN",false
+1,"Prey Upon","EMN",false
+1,"Lone Rider","EMN",false
+1,"Scour the Laboratory","EMN",false
+1,"Crop Sigil","EMN",false
+1,"Clear Shot","EMN",false
+1,"Borrowed Hostility","EMN",false
+1,"Guardian of Pilgrims","EMN",false
+1,"Thalia, Heretic Cathar","pPRE",false
+1,"Arrest","MRD",false
+1,"Myr Mindservant","MRD",false
+1,"Omega Myr","MRD",false
+1,"Alpha Myr","MRD",false
+1,"Copper Myr","MRD",false
+1,"Leaden Myr","MRD",false
+1,"Gold Myr","MRD",false
+1,"Somber Hoverguard","MRD",false
+1,"Leonin Elder","MRD",false
+1,"Raise the Alarm","MRD",false
+1,"Nim Shambler","MRD",false
+1,"Nim Lasher","MRD",false
+1,"Nim Shrieker","MRD",false
+1,"Krark-Clan Grunt","MRD",false
+1,"Neurok Spy","MRD",false
+1,"Oona's Gatewarden","SHM",false
+1,"Put Away","SHM",false
+1,"Crabapple Cohort","SHM",false
+1,"Wildslayer Elves","SHM",false
+1,"Juvenile Gloomwidow","SHM",false
+1,"Hungry Spriggan","SHM",false
+1,"Smash to Smithereens","SHM",false
+1,"Briarberry Cohort","SHM",false
+1,"Sinking Feeling","SHM",false
+1,"Advice from the Fae","SHM",false
+1,"Kinscaer Harpoonist","SHM",false
+1,"Spell Syphon","SHM",false
+1,"Helm of the Ghastlord","SHM",false
+1,"Drowner Initiate","SHM",false
+1,"Skygames","GTC",false
+1,"Verdant Haven","GTC",false
+1,"Burst of Strength","GTC",false
+1,"Spire Tracer","GTC",false
+1,"Scab-Clan Charger","GTC",false
+1,"Corpse Blockade","GTC",false
+1,"Knight Watch","GTC",false
+1,"Devour Flesh","GTC",false
+1,"Horror of the Dim","GTC",false
+1,"Leyline Phantom","GTC",false
+1,"Ruination Wurm","GTC",false
+1,"Drakewing Krasis","GTC",false
+1,"Razortip Whip","GTC",false
+1,"Grazing Kelpie","EVE",false
+1,"Outrage Shaman","EVE",false
+1,"Weakness","M10",false
+1,"Updraft","5ED",false
+1,"Boomerang","7ED",false
+1,"Vengeance","7ED",false
+1,"Seeker of Skybreak","7ED",false
+1,"Fallen Angel","7ED",false
+1,"Unholy Strength","5ED",false
+1,"Feral Animist","DGM",false
+1,"Clear a Path","DGM",false
+1,"Smelt-Ward Gatekeepers","DGM",false
+1,"Ubul Sar Gatekeepers","DGM",false
+1,"Fatal Fumes","DGM",false
+1,"Lyev Decree","DGM",false
+1,"Beetleform Mage","DGM",false
+1,"Bronzebeak Moa","DGM",false
+1,"Woodlot Crawler","DGM",false
+1,"Morgue Burst","DGM",false
+1,"Air Elemental","8ED",false
+1,"Elvish Pioneer","8ED",false
+1,"Shock","8ED",false
+1,"Monstrous Growth","8ED",false
+1,"Master Decoy","8ED",false
+1,"Bond of Agony","DIS",false
+1,"Thrive","DIS",false
+1,"Seal of Fire","DIS",false
+1,"Haazda Exonerator","DIS",false
+1,"Soulsworn Jury","DIS",false
+1,"Cytospawn Shambler","DIS",false
+1,"Slithering Shade","DIS",false
+1,"Valor Made Real","DIS",false
+1,"Cackling Flames","DIS",false
+1,"Shimmering Grotto","ISD",false
+1,"Demonmail Hauberk","ISD",false
+1,"Naya Sojourners","ARB",false
+1,"Terramorphic Expanse","TSP",false
+1,"Scarwood Treefolk","TSP",false
+1,"Rowan Treefolk","POR",false
+1,"Defensive Stance","NPH",false
+1,"Spined Thopter","NPH",false
+1,"Scab-Clan Mauler","GPT",false
+1,"Guardian's Magemark","GPT",false
+1,"Wildsize","GPT",false
+1,"Runeboggle","GPT",false
+1,"Pilgrim's Eye","WWK",false
+1,"Guardian Zendikon","WWK",false
+1,"Veteran's Reflexes","WWK",false
+1,"Graypelt Hunter","WWK",false
+1,"Corrupted Zendikon","WWK",false
+1,"Snapping Creeper","WWK",false
+1,"Whirlpool Whelm","LRW",false
+1,"Wellgabber Apothecary","LRW",false
+1,"Kinsbaile Skirmisher","LRW",false
+1,"Springjack Knight","LRW",false
+1,"Wispmare","LRW",false
+1,"Goldmeadow Harrier","LRW",false
+1,"Faerie Tauntings","LRW",false
+1,"Makeshift Mannequin","LRW",false
+1,"Lace with Moonglove","LRW",false
+1,"Spring Cleaning","LRW",false
+1,"Bog-Strider Ash","LRW",false
+1,"Hurly-Burly","LRW",false
+1,"Fertile Ground","LRW",false
+1,"Imperious Perfect","LRW",false
+1,"Faerie Trickery","LRW",false
+1,"Silvergill Adept","LRW",false
+1,"Inner-Flame Igniter","LRW",false
+1,"Soulbright Flamekin","LRW",false
+1,"Bog-Strider Ash","LRW",false
+1,"Battlewand Oak","LRW",false
+1,"Memory Lapse","HML",false,2949
+1,"Memory Lapse","HML",false,2950,"memory-lapse-version-2"
+1,"An-Zerrin Ruins","HML",false
+1,"Goblin War Drums","FEM",false,1956,"goblin-war-drums-hudson"
+1,"Goblin War Drums","FEM",false,1958,"goblin-war-drums-menges"
+1,"Icatian Infantry","FEM",false,1982,"icatian-infantry-rush"
+1,"Icatian Infantry","FEM",false,1984,"icatian-infantry-tucker"
+1,"Goblin Chirurgeon","FEM",false,1949,"goblin-chirurgeon-foglio"
+1,"Goblin Chirurgeon","FEM",false,1948
+1,"Spore Cloud","FEM",false,1922,"spore-cloud-weber"
+1,"Spore Cloud","FEM",false,1921,"spore-cloud-myrfors"
+1,"Dwarven Catapult","FEM",false
+1,"Icatian Javelineers","FEM",false
+1,"Farrel's Mantle","FEM",false
+1,"Farbog Boneflinger","DKA",false
+1,"Black Cat","DKA",false
+1,"Gravepurge","DKA",false
+1,"Highborn Ghoul","DKA",false
+1,"Volcanic Hammer","PO2",false
+1,"Krosan Drover","SCG",false
+1,"Dragon Shadow","SCG",false
+1,"Faithless Looting","DDK",false
+1,"Akki Drillmaster","SOK",false
+1,"Harsh Deceiver","CHK",false
+1,"Ethereal Haze","CHK",false
+1,"Burr Grafter","CHK",false
+1,"Yamabushi's Storm","CHK",false
+1,"Commune with Nature","CHK",false
+1,"Metamorphosis","ARN",false
+1,"Caustic Hound","MBS",false
+1,"Fissure","DRK",false
+1,"Fiery Fall","MM2",false
+1,"Rampant Growth","MM2",false
+1,"Commune with Nature","MM2",false
+1,"Osai Vultures","LEG",false
+1,"Glyph of Destruction","LEG",false
+1,"Contagion","ALL",false
+1,"Undergrowth","ALL",false
+1,"Hunted Ghoul","AVR",false
+1,"Crypt Creeper","AVR",false
+1,"Driver of the Dead","AVR",false
+1,"Conduit of Storms","EMN",false
+1,"Distemper of the Blood","EMN",false
+1,"Bold Impaler","EMN",false
+1,"Brazen Wolves","EMN",false
+1,"Bedlam Reveler","EMN",false
+1,"Smoldering Werewolf","EMN",false
+1,"Savage Alliance","EMN",false
+1,"Rise from the Grave","EMN",false
+1,"Noosegraf Mob","EMN",false
+1,"Stromkirk Condemned","EMN",false
+1,"Murder","EMN",false
+1,"Wailing Ghoul","EMN",false
+1,"Stromkirk Occultist","EMN",false
