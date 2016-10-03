@@ -25,6 +25,7 @@ module Mtg
         { errors: errors }
       else
         set_attributes = get_set_attributes(response)
+        set = set_attributes.fetch('set') { no_set_found }
 
         {
           name: name,
@@ -32,10 +33,11 @@ module Mtg
           colors: response['colors'],
           cost: response['cost'],
           is_foil: is_foil,
+          market_price: market_price(name, set, is_foil),
           multiverse_id: overwrite_id || set_attributes['multiverse_id'],
           quantity: quantity,
           rarity: set_attributes.fetch('rarity') { no_set_found },
-          set: set_attributes.fetch('set') { no_set_found },
+          set: set,
           set_id: set_id,
           subtypes: response['subtypes'],
           types: response['types'],
@@ -78,13 +80,25 @@ module Mtg
       end || {}
     end
 
-    def market_price(url)
-      # handle foil prices
-      return 0 if url.nil?
-      res = fetch(url.sub('?partner=DECKBREW',''))
-      data = res.match(/<td class="pricingBase">\$.*<\/td>/)
-      return 0 if data[0].nil?
-      data[0].match(/\d*\.\d*/)[0]
+    def market_price(name, set, is_foil)
+      url = build_price_url(name, set, is_foil)
+      # remove new lines and extra spaces
+      res = fetch(url).split.join(' ')
+      data = /card-name.*<\/h2>/.match(res)
+
+      return 0 if data.nil?
+      data[0].match(/\d*\.\d*/)[0].to_f
+    end
+
+    def build_price_url(name, set, is_foil)
+      set = underscore(set)
+      set += "_Foil" if is_foil == 'true'
+
+      "http://www.mtgprice.com/sets/#{set}/#{underscore(name)}"
+    end
+
+    def underscore(string)
+      string.split.join('_')
     end
 
     def card_url

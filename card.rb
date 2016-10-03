@@ -13,6 +13,7 @@ module Mtg
       @colors = attributes['colors']
       @cost = attributes['cost']
       @is_foil = attributes['is_foil']
+      @market_price = attributes['market_price']
       @multiverse_id = attributes['multiverse_id']
       @quantity = attributes['quantity'].to_i
       @rarity = attributes['rarity']
@@ -20,9 +21,6 @@ module Mtg
       @set_id = attributes['set_id']
       @subtypes = attributes['subtypes']
       @types = attributes['types']
-      # no price api access yet
-      # overwrite me later!
-      @market_price = 0
     end
   end
 end
