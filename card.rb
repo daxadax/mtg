@@ -13,7 +13,7 @@ module Mtg
       @colors = attributes['colors']
       @cost = attributes['cost']
       @is_foil = attributes['is_foil']
-      @market_price = attributes['market_price']
+      @market_price = attributes['market_price'].to_f
       @multiverse_id = attributes['multiverse_id']
       @quantity = attributes['quantity'].to_i
       @rarity = attributes['rarity']
