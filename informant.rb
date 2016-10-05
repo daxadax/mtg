@@ -32,8 +32,15 @@ module Mtg
     end
 
     def update
-      updated_cards = write_updates
-      report_status(updated_cards)
+      collection = fetch_raw_collection
+      cards_by_set = collection.group_by { |c| JSON.parse(c)['set_id'] }
+
+      cards_by_set.each { |set, cards| update_set(set, cards) }
+      report_status(collection)
+    end
+
+    def update_prices
+      pp 'NOT IMPLEMENTED', :new_line
     end
 
     def merge_duplicates
@@ -59,15 +66,8 @@ module Mtg
     private
     attr_reader :errors, :requested_sets
 
-    def write_updates
-      cards = fetch_raw_collection
-      grouped = cards.group_by{ |c| JSON.parse(c)['set_id'] }
-
-      grouped.each do |set, members|
-        File.write(path_to_file("collection/#{set}.json"), members)
-      end
-
-      cards
+    def update_set(set, cards)
+      File.write(path_to_file("collection/#{set}.json"), cards)
     end
 
     def report_status(updated_cards)
