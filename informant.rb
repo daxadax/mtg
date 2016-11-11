@@ -84,6 +84,8 @@ module Mtg
     end
 
     def fetch_raw_collection
+      prices = fetch_prices
+      p prices: prices
       cards = manifest.inject([]) do |array, card|
         attributes = Mtg::Api.get_card(card)
         errors.push(attributes.delete(:errors))
@@ -93,6 +95,12 @@ module Mtg
 
       # cards with errors return an empty hash, so remove them
       cards.reject(&:empty?)
+    end
+
+    def fetch_prices
+      # for now, only fetch prices for individual sets
+      return Hash.new if requested_sets.empty?
+      Mtg::Api.get_prices(requested_sets)
     end
 
     def manifest
