@@ -21,10 +21,15 @@ module Mtg
       new(requested_sets).merge_duplicates
     end
 
+    def self.top_cards(requested_sets)
+      new(requested_sets).top_cards
+    end
+
     def self.method_missing(method_name)
       pp "No command named '#{method_name}'", :new_line
       return
     end
+
 
     def initialize(requested_sets = Array.new)
       @requested_sets = requested_sets
@@ -61,6 +66,12 @@ module Mtg
       pp "#{rarities.count('uncommon')} uncommons"
       pp "#{rarities.count('rare')} rares"
       pp "#{rarities.count('mythic')} mythic rares", :new_line
+    end
+
+    def top_cards
+      collection.sort_by(&:market_price).reverse.first(25).each do |card|
+        pp "#{card.quantity}x #{card.name}(#{card.set_id}): #{card.market_price}"
+      end
     end
 
     private
