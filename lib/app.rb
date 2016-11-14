@@ -1,10 +1,10 @@
 module Mtg
   class App
-    require './app_helpers.rb'
-    require './informant.rb'
-    include Mtg::AppHelpers
+    include AppHelpers
 
-    def self.run; new.run; end
+    def self.run
+      new.run
+    end
 
     def run
       print_help
@@ -26,5 +26,3 @@ module Mtg
     end
   end
 end
-
-Mtg::App.run
