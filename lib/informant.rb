@@ -58,13 +58,14 @@ module Mtg
       pp "#{rarities.count('Common')} commons"
       pp "#{rarities.count('Uncommon')} uncommons"
       pp "#{rarities.count('Rare')} rares"
-      pp "#{rarities.count('Mythic')} mythic rares", :new_line
+      pp "#{rarities.count('Mythic Rare')} mythic rares", :new_line
     end
 
     def top_cards
-      collection.sort_by(&:market_price).reverse.first(25).each do |card|
+      collection.sort_by(&:market_price).reverse.first(50).each do |card|
         pp "#{card.quantity}x #{card.name}(#{card.set_id}): #{card.market_price}"
       end
+      pp '', :new_line
     end
 
     private

@@ -21,7 +21,8 @@ module Mtg
       pp "~~ Available Commands ~~", :cls, :new_line
       pp "update <optional set abbreviation(s)>"
       pp "merge_duplicates"
-      pp "info", :new_line
+      pp "info"
+      pp "top_cards", :new_line
       pp "", :new_line
     end
   end
