@@ -34,7 +34,7 @@
 6,"Elvish Warrior","MOR",false
 6,"Crippling Chill","KTK",false
 6,"Caller of Gales","ZEN",false
-6,"Boon of Emrakul","EMN",false
+10,"Boon of Emrakul","EMN",false
 6,"Bloodfire Mentor","KTK",false
 6,"Act of Treason","KTK",false
 6,"About Face","ULG",false
@@ -52,7 +52,8 @@
 5,"Puncture Bolt","SHM",false
 5,"Lavastep Raider","BFZ",false
 5,"Lash of the Whip","THS",false
-5,"Galvanic Bombardment","EMN",false
+11,"Galvanic Bombardment","EMN",false
+4,"Otherworldly Outburst","EMN",false
 5,"Firehoof Cavalry","KTK",false
 5,"Erase","KTK",false
 5,"Dragonscale Boon","KTK",false
@@ -99,7 +100,9 @@
 4,"Memory Lapse","6ED",false
 4,"Loathsome Catoblepas","THS",false
 4,"Liliana's Shade","M13",false
-4,"Laboratory Brute","EMN",false
+8,"Laboratory Brute","EMN",false
+4,"Displace","EMN",false
+4,"Convolute","EMN",false
 4,"Kjeldoran Dead","6ED",false
 4,"Kin-Tree Warden","KTK",false
 4,"Kill Shot","KTK",false
@@ -146,18 +149,18 @@
 3,"Tormenting Voice","KTK",false
 3,"Tormented Angel","UDS",false
 3,"Time to Feed","THS",false
-3,"Terrarion","EMN",false
+7,"Terrarion","EMN",false
 3,"Symbiosis","USG",false
 3,"Sure Strike","BFZ",false
 3,"Summer Bloom","6ED",false
-3,"Succumb to Temptation","EMN",false
+8,"Succumb to Temptation","EMN",false
 3,"Stalking Drone","OGW",false
 3,"Spell Shrivel","BFZ",false
 3,"Spell Blast","6ED",false
 3,"Snake of the Golden Grove","BNG",false
 3,"Smite the Monstrous","BFZ",false
 3,"Silent Skimmer","BFZ",false
-3,"Sigardian Priest","EMN",false
+7,"Sigardian Priest","EMN",false
 3,"Shoulder to Shoulder","OGW",false
 3,"Shinewend","MOR",false
 3,"Setessan Griffin","THS",false
@@ -181,7 +184,7 @@
 3,"Rabid Bloodsucker","ORI",false
 3,"Rabid Bite","SOI",false
 3,"Psychic Miasma","SOM",false
-3,"Prophetic Ravings","EMN",false
+8,"Prophetic Ravings","EMN",false
 3,"Prismatic Ward","ICE",false
 3,"Panic","ICE",false
 3,"Pallid Mycoderm","PLC",false
@@ -198,7 +201,7 @@
 3,"Mine Excavation","SHM",false
 3,"Mardu Skullhunter","KTK",false
 3,"Makindi Aeronaut","OGW",false
-3,"Make Mischief","EMN",false
+6,"Make Mischief","EMN",false
 3,"Living Destiny","ROE",false
 3,"Lightwalker","DTK",false
 3,"Lethargy Trap","ZEN",false
@@ -215,12 +218,12 @@
 3,"Groundswell","WWK",false
 3,"Grotag Siege-Runner","ROE",false
 3,"Gravity Negator","OGW",false
-3,"Grapple with the Past","EMN",false
+7,"Grapple with the Past","EMN",false
 3,"Gloomwidow's Feast","SHM",false
 3,"Glint","DTK",false
 3,"Gladecover Scout","M14",false
 3,"Gilt-Leaf Seer","LRW",false
-3,"Gavony Unhallowed","EMN",false
+7,"Gavony Unhallowed","EMN",false
 3,"Fume Spitter","SOM",false
 4,"Fortune's Favor","EMN",false
 3,"Formless Nurturing","FRF",false
@@ -231,7 +234,7 @@
 3,"Fire at Will","EVE",false
 3,"Fierce Invocation","FRF",false
 3,"Field Surgeon","UDS",false
-3,"Field Creeper","EMN",false
+8,"Field Creeper","EMN",false
 3,"Fertilid","MOR",false
 3,"Feat of Resistance","KTK",false
 3,"Fallow Earth","6ED",false
@@ -246,19 +249,19 @@
 3,"Dutiful Return","KTK",false
 3,"Doomed Traveler","ISD",false
 3,"Disdainful Stroke","KTK",false
-3,"Desperate Sentry","EMN",false
+8,"Desperate Sentry","EMN",false
 3,"Deprive","ROE",false
 3,"Defiant Strike","KTK",false
 3,"Debilitating Injury","KTK",false
-3,"Dawn Gryff","EMN",false
+7,"Dawn Gryff","EMN",false
 3,"Dark Dabbling","ORI",false
 3,"Cultivator Drone","OGW",false
 3,"Crosstown Courier","RTR",false
 3,"Counterspell","6ED",false
 3,"Comparative Analysis","OGW",false
 3,"Claim of Erebos","BNG",false
-3,"Choking Restraints","EMN",false
-3,"Certain Death","EMN",false
+8,"Choking Restraints","EMN",false
+7,"Certain Death","EMN",false
 3,"Cavern Lampad","THS",false
 3,"Cancel","ALA",false
 3,"Bloodshed Fever","SHM",false
@@ -272,7 +275,7 @@
 3,"Aerie Ouphes","EVE",false
 3,"Abstruse Interference","OGW",false
 2,"Youthful Knight","10E",false
-2,"Woodcutter's Grit","EMN",false
+6,"Woodcutter's Grit","EMN",false
 2,"Winterflame","KTK",false
 2,"Wildwood Rebirth","GTC",false
 2,"Wild Nacatl","ALA",false
@@ -291,7 +294,7 @@
 2,"Wall of Dust","4ED",false
 2,"Voracious Null","BFZ",false
 2,"Volcanic Submersion","ALA",false
-2,"Vildin-Pack Outcast","EMN",false
+8,"Vildin-Pack Outcast","EMN",false
 2,"Venerable Kumo","CHK",false
 2,"Venarian Glimmer","PLC",false
 2,"Vault Skyward","SOM",false
@@ -311,6 +314,7 @@
 2,"Noose Constrictor","EMN",false
 2,"Emrakul's Influence","EMN",false
 1,"Ulvenwald Observer","EMN",false
+4,"Ulvenwald Captive","EMN",false
 2,"Spirit of the Hunt","EMN",false
 1,"Tangleclaw Werewolf","EMN",false
 1,"Kessig Prowler","EMN",false
@@ -323,19 +327,20 @@
 2,"Twins of Maurer Estate","SOI",false
 2,"Turn to Slag","SOM",false
 2,"Turn Aside","SOM",false
+5,"Turn Aside","EMN",false
 2,"Triton Shorestalker","JOU",false
 2,"Treasure Cruise","KTK",false
 2,"Tranquility","7ED",false
 2,"Touch of Moonglove","ORI",false
 2,"Titan's Strength","ORI",false
 2,"Timberpack Wolf","ORI",false
-2,"Thraben Standard Bearer","EMN",false
+6,"Thraben Standard Bearer","EMN",false
 2,"Thraben Inspector","SOI",false
 2,"Territorial Roc","DTK",false
 2,"Tel-Jilad Fallen","SOM",false
 2,"Taste of Blood","M12",false
 2,"Tandem Tactics","BFZ",false
-2,"Take Inventory","EMN",false
+6,"Take Inventory","EMN",false
 2,"Tainted Strike","SOM",false
 2,"Tail Slash","DTK",false
 2,"Swordwise Centaur","BNG",false
@@ -347,17 +352,18 @@
 2,"Stormfront Pegasus","M10",false
 2,"Stonewise Fortifier","JOU",false
 2,"Stone Rain","4ED",false
-2,"Stensia Banquet","EMN",false
+6,"Stensia Banquet","EMN",false
+5,"Stensia Innkeeper","EMN",false
 2,"Steamcore Weird","GPT",false
 2,"Steady Progress","SOM",false
-2,"Steadfast Cathar","EMN",false
+7,"Steadfast Cathar","EMN",false
 2,"Staunch-Hearted Warrior","THS",false
 2,"Stand Firm","5DN",false
 2,"Stalwart Aven","ORI",false
 2,"Squeaking Pie Grubfellows","MOR",false
 2,"Sporoloth Ancient","FUT",false
 2,"Sporecap Spider","ROE",false
-2,"Spectral Reserves","EMN",false
+7,"Spectral Reserves","EMN",false
 2,"Spectral Bears","HML",false
 2,"Spawn of Rix Maadi","RTR",false
 2,"Soul Warden","M10",false
@@ -437,7 +443,7 @@
 2,"Mind Rot","M12",false
 2,"Mind Rot","DTK",false
 2,"Mighty Leap","ORI",false
-2,"Midnight Scavengers","EMN",false
+6,"Midnight Scavengers","EMN",false
 2,"Merfolk Looter","M10",false
 3,"Mercurial Geists","EMN",false
 2,"Geist of the Lonely Vigil","EMN",false
@@ -449,6 +455,7 @@
 1,"Sigarda's Aid","EMN",false
 1,"Sigarda's Aid","EMN",true
 1,"Faith Unbroken","EMN",false
+4,"Faithbearer Paladin","EMN",false
 2,"Repel the Abominable","EMN",false
 2,"Maw of Kozilek","OGW",false
 2,"Market Festival","JOU",false
@@ -484,7 +491,7 @@
 2,"Joraga Bard","ZEN",false
 2,"Jeskai Sage","FRF",false
 2,"Isolation Zone","OGW",false
-2,"Ironwright's Cleansing","EMN",false
+7,"Ironwright's Cleansing","EMN",false
 2,"Instill Infection","SOM",false
 2,"Inspired Charge","BFZ",false
 2,"Inspiration","RTR",false
@@ -508,7 +515,7 @@
 2,"Grave Scrabbler","FUT",false
 2,"Grave Birthing","BFZ",false
 2,"Grappler Spider","WWK",false
-2,"Graf Rats","EMN",false
+7,"Graf Rats","EMN",false
 2,"Graf Harvest","EMN",false
 2,"Prying Questions","EMN",false
 2,"Markov Crusader","EMN",false
@@ -519,7 +526,8 @@
 2,"Gleam of Resistance","CON",false
 2,"Fungal Bloom","FEM",false
 2,"Font of Fortunes","JOU",false
-2,"Fogwalker","EMN",false
+6,"Fogwalker","EMN",false
+5,"Spontaneous Mutation","EMN",false
 2,"Fog of Gnats","ULG",false
 2,"Fog","6ED",false
 2,"Flesh to Dust","M15",false
@@ -537,7 +545,7 @@
 2,"Fate Foretold","THS",false
 2,"Fatal Blow","6ED",false
 2,"Farhaven Elf","SHM",false
-2,"Falkenrath Reaver","EMN",false
+6,"Falkenrath Reaver","EMN",false
 2,"Fade into Antiquity","THS",false
 2,"Ezuri's Archers","SOM",false
 2,"Eyeless Watcher","BFZ",false
@@ -574,7 +582,7 @@
 2,"Deadbridge Shaman","ORI",false
 2,"Cyclops of One-Eyed Pass","BNG",false
 2,"Crow of Dark Tidings","SOI",false
-2,"Crossroads Consecrator","EMN",false
+7,"Crossroads Consecrator","EMN",false
 1,"Crossroads Consecrator","EMN",true
 2,"Cremate","RTR",false
 2,"Courier Griffin","BFZ",false
@@ -638,7 +646,9 @@
 1,"Yavimaya Enchantress","EMA",false
 1,"Yamabushi's Storm","CHK",false
 1,"Write into Being","FRF",false
-1,"Wretched Gryff","EMN",false
+6,"Wretched Gryff","EMN",false
+3,"Woodland Patrol","EMN",false
+4,"Backwoods Survivalists","EMN",false
 1,"Wretched Anurid","ONS",false
 1,"Wrap in Flames","ROE",false
 1,"Worn Powerstone","EMA",false
@@ -671,7 +681,7 @@
 1,"Welkin Tern","M15",false
 1,"Welkin Guide","ALA",false
 1,"Weldfast Wingsmith","KLD",false
-1,"Weirded Vampire","EMN",false
+7,"Weirded Vampire","EMN",false
 1,"Weight of the Underworld","BNG",false
 1,"Weed-Pruner Poplar","MOR",false
 1,"Weakness","M10",false
@@ -689,7 +699,7 @@
 1,"Wall of Fire","M15",false
 1,"Wall of Fire","6ED",false
 1,"Wall of Faith","M10",false
-1,"Wailing Ghoul","EMN",false
+6,"Wailing Ghoul","EMN",false
 1,"Voyaging Satyr","THS",false
 1,"Vow of Wildness","CMD",false
 1,"Vow of Duty","CMD",false
@@ -783,7 +793,8 @@
 1,"Tidal Surge","STH",false
 1,"Thunder-Thrash Elder","ALA",false
 1,"Thrive","DIS",false
-1,"Thraben Foulbloods","EMN",false
+5,"Thraben Foulbloods","EMN",false
+4,"Strange Augmentation","EMN",false
 1,"Thoughtcutter Agent","ALA",false
 1,"Thornwind Faeries","ULG",false
 1,"Thieves' Fortune","MOR",false
@@ -801,7 +812,7 @@
 1,"Tel-Jilad Defiance","SOM",false
 1,"Teferi's Drake","MIR",false
 1,"Teardrop Kami","BOK",false
-1,"Tattered Haunter","EMN",false
+6,"Tattered Haunter","EMN",false
 1,"Tasigur's Cruelty","FRF",false
 1,"Tar Snare","OGW",false
 1,"Take Down","KLD",false
@@ -815,7 +826,7 @@
 1,"Symbol of Unsummoning","POR",false
 1,"Sylvan Scrying","10E",false
 1,"Sylvan Bounty","CON",false
-1,"Swift Spinner","EMN",false
+6,"Swift Spinner","EMN",false
 1,"Swift Maneuver","CSP",false
 1,"Swift Justice","RTR",false
 1,"Swell of Growth","BFZ",false
@@ -871,6 +882,7 @@
 1,"Spore Cloud","FEM",false,1921,"Spore+Cloud-Myrfors"
 1,"Splitting Headache","SHM",false
 1,"Splendid Reclamation","EMN",true
+6,"Springsage Ritual","EMN",false
 1,"Spitebellows","MOR",false
 1,"Spirit en-Dal","FUT",false
 1,"Spire Tracer","GTC",false
@@ -917,7 +929,7 @@
 1,"Skygames","GTC",false
 1,"Skulking Knight","TSP",false
 1,"Skittering Horror","UDS",false
-1,"Skirsdag Supplicant","EMN",false
+5,"Skirsdag Supplicant","EMN",false
 1,"Skirk Shaman","PLC",false
 1,"Skin Invasion","SOI",false
 1,"Sisay's Ingenuity","PLS",false
@@ -977,6 +989,8 @@
 1,"Scrapskin Drake","ORI",false
 1,"Scrapdiver Serpent","SOM",false
 3,"Scour the Laboratory","EMN",false
+3,"Alchemist's Greeting","EMN",false
+6,"Thermo-Alchemist","EMN",false
 1,"Scour from Existence","BFZ",false
 1,"Scoured Barrens","EMA",false
 1,"Scion Summoner","OGW",false
@@ -1070,13 +1084,14 @@
 1,"Prodigal Sorcerer","6ED",false
 1,"Prodigal Pyromancer","M11",false
 1,"Prized Unicorn","M10",false
-1,"Primal Druid","EMN",false
+6,"Primal Druid","EMN",false
+5,"Wolfkin Bond","EMN",false
 1,"Primal Druid","EMN",true
 1,"Soul Separator","EMN",false
 1,"Lupine Prototype","EMN",false
 1,"Priest of Iroas","THS",false
 1,"Prickleboar","ORI",false
-1,"Prey Upon","EMN",false
+5,"Prey Upon","EMN",false
 1,"Pressure Point","FRF",false
 1,"Press for Answers","SOI",false
 1,"Preferred Selection","MIR",false
@@ -1111,7 +1126,7 @@
 1,"Ondu Greathorn","BFZ",false
 1,"Ondu Champion","BFZ",false
 1,"Omega Myr","MRD",false
-1,"Olivia's Dragoon","EMN",false
+6,"Olivia's Dragoon","EMN",false
 1,"Ojutai's Breath","DTK",false
 1,"Ojutai Interceptor","DTK",false
 1,"Ogre Jailbreaker","RTR",false
@@ -1235,7 +1250,7 @@
 1,"Lyev Decree","DGM",false
 1,"Lure","ICE",false
 1,"Lure","6ED",false
-1,"Lunarch Mantle","EMN",false
+5,"Lunarch Mantle","EMN",false
 2,"Lunar Force","EMN",false
 2,"Geist of the Archives","EMN",false
 1,"Luminescent Rain","MOR",false
@@ -1308,17 +1323,16 @@
 1,"Jwar Isle Avenger","OGW",false
 1,"Jwari Scuttler","ROE",false
 1,"Juvenile Gloomwidow","SHM",false
-1,"It of the Horrid Swarm","EMN",false
+5,"It of the Horrid Swarm","EMN",false
 1,"Ironshell Beetle","JUD",false
-1,"Ironclad Slayer","EMN",false
+6,"Ironclad Slayer","EMN",false
 1,"Into the North","CSP",false
 1,"Inspiring Captain","SOI",false
 1,"Inspiration","VIS",false
 1,"Insolent Neonate","SOI",false
 1,"Inner-Flame Igniter","LRW",false
 1,"Ink Dissolver","MOR",false
-1,"Ingenious Skaab","EMN",false
-1,"Ingenious Skaab","EMN",false
+6,"Ingenious Skaab","EMN",false
 1,"Induce Despair","ROE",false
 1,"Index","M13",false
 1,"Incubator Drone","BFZ",false
@@ -1372,7 +1386,7 @@
 1,"Gurmag Drowner","DTK",false
 1,"Guardian Zendikon","WWK",false
 1,"Guardian's Magemark","GPT",false
-1,"Guardian of Pilgrims","EMN",false
+6,"Guardian of Pilgrims","EMN",false
 2,"Haunted Dead","EMN",false
 2,"Whispers of Emrakul","EMN",false
 2,"Vampire Cutthroat","EMN",false
@@ -1464,7 +1478,7 @@
 1,"Fiery Temper","SOI",false
 1,"Fiery Fall","MM2",false
 1,"Fiend Binder","EMN",true
-1,"Fiend Binder","EMN",false
+5,"Fiend Binder","EMN",false
 1,"Fever Charm","ONS",false
 1,"Festering Newt","M14",false
 1,"Fertilid","CMD",false
@@ -1487,7 +1501,7 @@
 1,"Faerie Trickery","LRW",false
 1,"Faerie Tauntings","LRW",false
 1,"Eye Gouge","BNG",false
-1,"Exultant Cultist","EMN",false
+6,"Exultant Cultist","EMN",false
 2,"Peace of Mind","EMN",false
 2,"Providence","EMN",false
 4,"Extricator of Sin","EMN",false
@@ -1515,7 +1529,7 @@
 1,"Epic Confrontation","DTK",false
 1,"Ephara's Enlightenment","BNG",false
 1,"Enlightened Tutor","6ED",false
-1,"Enlightened Maniac","EMN",false
+6,"Enlightened Maniac","EMN",false
 1,"Engulf the Shore","SOI",false
 1,"Endure","EVE",false
 1,"Endbringer","OGW",false
@@ -1566,7 +1580,7 @@
 1,"Dream Cache","TMP",false
 1,"Drakewing Krasis","GTC",false
 1,"Drainpipe Vermin","RTR",false
-1,"Drag Under","EMN",false
+5,"Drag Under","EMN",false
 1,"Dragon Whelp","M10",false
 1,"Dragon Shadow","SCG",false
 1,"Dragon Fodder","ALA",false
@@ -1575,7 +1589,7 @@
 1,"Divination","M13",false
 1,"Disturbing Plot","SHM",false
 1,"Distortion Strike","ROE",false
-1,"Distemper of the Blood","EMN",false
+6,"Distemper of the Blood","EMN",false
 1,"Distant Melody","MOR",false
 1,"Disrupt","WTH",false
 1,"Disperse","MOR",false
@@ -1607,7 +1621,7 @@
 1,"Daggerdrome Imp","RTR",false
 1,"Cytospawn Shambler","DIS",false
 2,"Curious Homunculus","EMN",false
-1,"Cultist's Staff","EMN",false
+5,"Cultist's Staff","EMN",false
 1,"Summary Dismissal","EMN",false
 1,"Docent of Perfection","EMN",false
 1,"Coax from the Blind Eternities","EMN",false
@@ -1637,7 +1651,7 @@
 1,"Convolute","EMN",false
 1,"Convicted Killer","SOI",false
 1,"Contradict","DTK",false
-1,"Contingency Plan","EMN",false
+6,"Contingency Plan","EMN",false
 1,"Contaminated Ground","ROE",false
 1,"Contagious Nim","SOM",false
 1,"Contagion","ALL",false
@@ -1669,6 +1683,7 @@
 3,"Chilling Grasp","EMN",false
 2,"Advanced Stitchwing","EMN",false
 2,"Imprisoned in the Moon","EMN",false
+4,"Waxing Moon","EMN",false
 2,"Ride Down","EMN",false
 2,"Campaign of Vengeance","EMN",false
 1,"Chaotic Backlash","EVE",false
@@ -1676,12 +1691,12 @@
 1,"Chandra's Fury","M13",false
 1,"Center Soul","DTK",false
 1,"Centaur's Herald","RTR",false
-1,"Cemetery Recruitment","EMN",false
+5,"Cemetery Recruitment","EMN",false
 1,"Celestial Purge","M10",false
 1,"Cavalry Master","TSP",false
 1,"Caustic Hound","MBS",false
 1,"Caustic Caterpillar","ORI",false
-1,"Cathar's Shield","EMN",false
+5,"Cathar's Shield","EMN",false
 1,"Cathar's Companion","SOI",false
 1,"Catalog","SOI",false
 1,"Catacomb Slug","RTR",false
@@ -1709,19 +1724,19 @@
 1,"Brighthearth Banneret","MOR",false
 1,"Briarberry Cohort","SHM",false
 1,"Breaker of Armies","BFZ",false
-1,"Brazen Wolves","EMN",false
-1,"Brazen Wolves","EMN",false
+7,"Brazen Wolves","EMN",false
 1,"Brain Weevil","ISD",false
 1,"Brackwater Elemental","CON",false
 1,"Bosk Banneret","MOR",false
-1,"Borrowed Hostility","EMN",false
+6,"Borrowed Hostility","EMN",false
+5,"Borrowed Malevolence","EMN",false
+5,"Borrowed Grace","EMN",false
 1,"Borderland Minotaur","THS",false
 1,"Boomerang","7ED",false
 1,"Book Burning","JUD",false
 1,"Bond of Agony","DIS",false
 1,"Bolt of Keranos","BNG",false
-1,"Bold Impaler","EMN",false
-1,"Bold Impaler","EMN",false
+5,"Bold Impaler","EMN",false
 1,"Bog-Strider Ash","LRW",false
 1,"Bog-Strider Ash","LRW",false
 1,"Blue Elemental Blast","4ED",false
@@ -1732,7 +1747,7 @@
 2,"Insatiable Gorgers","EMN",false
 1,"Bloodfire Infusion","APC",false
 1,"Bloodcrazed Hoplite","JOU",false
-1,"Bloodbriar","EMN",false
+5,"Bloodbriar","EMN",false
 1,"Bloodbriar","EMN",true
 1,"Blood Bairn","M14",false
 1,"Blisterpod","BFZ",false
