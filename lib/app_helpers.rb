@@ -6,6 +6,12 @@ module Mtg
       new_line if args.include?(:new_line)
     end
 
+    def section
+      new_line
+      pp "~"*64
+      new_line
+    end
+
     def cls
       system "clear"
     end

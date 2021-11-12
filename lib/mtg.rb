@@ -7,5 +7,3 @@ require_relative 'mtg_goldfish_price_converter.rb'
 
 module Mtg
 end
-
-Mtg::App.run

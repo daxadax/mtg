@@ -38,11 +38,11 @@ module Mtg
     private
 
     def fetch(uri_str, limit = 10)
-      `curl -s #{uri_str}`
+      `curl -sL #{uri_str}`
     end
 
     def set_url(set_id)
-      "http://mtgjson.com/json/#{set_id}.json"
+      "https://mtgjson.com/api/v5/#{set_id}.json"
     end
 
     def price_url(set_id, foil: false)

@@ -9,6 +9,10 @@ module Mtg
       new(requested_sets).update
     end
 
+    def self.show_prices(requested_sets)
+      new(requested_sets).show_prices
+    end
+
     def self.info(requested_sets)
       new(requested_sets).info
     end
@@ -26,7 +30,6 @@ module Mtg
       return
     end
 
-
     def initialize(requested_sets)
       @requested_sets = requested_sets.empty? ? all_sets : requested_sets
       @errors = []
@@ -35,6 +38,14 @@ module Mtg
     def update
       updated_cards_count = fetch_raw_collection
       report_status(updated_cards_count)
+    end
+
+    def show_prices
+      section
+      collection.sort_by(&:market_price).reverse.each do |card|
+        pp "#{card.quantity}x #{card.name}(#{card.set_id}): #{card.market_price}"
+      end
+      section
     end
 
     def update_prices
@@ -54,18 +65,21 @@ module Mtg
 
       rarities = collection.map(&:rarity)
 
+      section
       pp "#{result[:count]} cards worth $#{result[:price]}", :new_line
       pp "#{rarities.count('Common')} commons"
       pp "#{rarities.count('Uncommon')} uncommons"
       pp "#{rarities.count('Rare')} rares"
-      pp "#{rarities.count('Mythic Rare')} mythic rares", :new_line
+      pp "#{rarities.count('Mythic Rare')} mythic rares"
+      section
     end
 
     def top_cards
+      section
       collection.sort_by(&:market_price).reverse.first(50).each do |card|
         pp "#{card.quantity}x #{card.name}(#{card.set_id}): #{card.market_price}"
       end
-      pp '', :new_line
+      section
     end
 
     private
@@ -98,15 +112,18 @@ module Mtg
       updated_cards_count = 0
 
       sets.each do |set|
-        cards = manifest.select { |c| c['set_id'] == set['code'] }
-        pp "Updating #{cards.count} cards in set #{set['name']} (#{set['code']})"
+        data = set['data']
+        cards = manifest.select { |c| c['set_id'] == data['code'] }
+        pp "Updating #{cards.count} cards in set #{data['name']} (#{data['code']})"
         updated_cards_count += cards.count
 
         updated_cards = cards.map do |card|
-          response = set['cards'].detect { |c| c['name'] == sanitize(card['name']) }
+          response = data['cards'].detect do |c|
+            c['name'] == sanitize(card['name'])
+          end
 
           if response.nil?
-            errors.push("Couldn't find card '#{card['name']}' in set '#{set['code']}'")
+            errors.push("Couldn't find card '#{card['name']}' in set '#{data['code']}'")
             next
           else
             {
@@ -115,26 +132,26 @@ module Mtg
               colors: response['colors'],
               cost: response['manaCost'],
               is_foil: card['is_foil'],
-              market_price: price_for(prices, card, set),
+              market_price: price_for(prices, card, data),
               multiverse_id: card['multiverse_id'] || response['multiverseid'],
               quantity: card['quantity'],
               rarity: response['rarity'],
-              set: set['name'],
-              set_id: set['code'],
+              set: data['name'],
+              set_id: data['code'],
               subtypes: response['subtypes'] || Array.new,
               types: response['types'],
             }.to_json
           end
         end
 
-        update_set(set['code'], updated_cards)
+        # update_set(data['code'], updated_cards)
       end
 
       updated_cards_count
     end
 
-    def price_for(prices, card, set)
-      set_prices = prices[set['code']]
+    def price_for(prices, card, data)
+      set_prices = prices[data['code']]
 
       if card['is_foil'] == 'true'
         set_prices[:foil][card['name']]

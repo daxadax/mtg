@@ -1,3 +1,5 @@
+Dir.glob('./lib/*.rb') { |f| require f }
+
 module Mtg
   class App
     include AppHelpers
@@ -10,7 +12,6 @@ module Mtg
       print_help
 
       args = STDIN.gets.chomp.split
-      cls
       method = args.shift
       Mtg::Informant.send(method.to_sym, args)
     end
@@ -18,8 +19,9 @@ module Mtg
     private
 
     def print_help
-      pp "~~ Available Commands ~~", :cls, :new_line
+      pp "~~ Available Commands ~~", :new_line
       pp "update <optional set abbreviation(s)>"
+      pp "[temp] show_prices <optional set abbreviation(s)>"
       pp "merge_duplicates"
       pp "info"
       pp "top_cards", :new_line
@@ -27,3 +29,5 @@ module Mtg
     end
   end
 end
+
+Mtg::App.run

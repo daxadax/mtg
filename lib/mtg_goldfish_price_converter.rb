@@ -58,7 +58,7 @@ module Mtg
     end
 
     def data_exists?(response)
-      !response.include?("Oops! Page not found!")
+      response.include?('index-price-table')
     end
   end
 end
