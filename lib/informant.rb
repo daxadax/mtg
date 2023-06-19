@@ -9,16 +9,12 @@ module Mtg
       new(requested_sets).update
     end
 
-    def self.show_prices(requested_sets)
-      new(requested_sets).show_prices
+    def self.cards_per_set(requested_sets)
+      new(requested_sets).cards_per_set
     end
 
     def self.info(requested_sets)
       new(requested_sets).info
-    end
-
-    def self.merge_duplicates(requested_sets)
-      new(requested_sets).merge_duplicates
     end
 
     def self.top_cards(requested_sets)
@@ -40,20 +36,14 @@ module Mtg
       report_status(updated_cards_count)
     end
 
-    def show_prices
+    def cards_per_set
       section
-      collection.sort_by(&:market_price).reverse.each do |card|
-        pp "#{card.quantity}x #{card.name}(#{card.set_id}): #{card.market_price}"
-      end
+      collection.
+        group_by(&:set_id).
+        sort_by { |set, cards| cards.count }.
+        reverse.
+        each { |set, cards| pp "#{set}: #{cards.count} cards" }
       section
-    end
-
-    def update_prices
-      pp 'NOT IMPLEMENTED', :new_line
-    end
-
-    def merge_duplicates
-      pp 'NOT IMPLEMENTED', :new_line
     end
 
     def info

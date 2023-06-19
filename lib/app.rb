@@ -21,9 +21,8 @@ module Mtg
     def print_help
       pp "~~ Available Commands ~~", :new_line
       pp "update <optional set abbreviation(s)>"
-      pp "[temp] show_prices <optional set abbreviation(s)>"
-      pp "merge_duplicates"
       pp "info"
+      pp "cards_per_set"
       pp "top_cards", :new_line
       pp "", :new_line
     end

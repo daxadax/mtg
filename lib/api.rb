@@ -47,11 +47,13 @@ module Mtg
 
     def price_url(set_id, foil: false)
       goldfish_set_id = goldfish_sets.fetch(set_id) { set_id }
-      "https://www.mtggoldfish.com/index/#{goldfish_set_id}#{"_F" if foil}#paper"
+      "https://www.mtggoldfish.com/price/#{goldfish_set_id}#{"_F" if foil}#paper"
     end
 
     def goldfish_sets
       {
+        '3ED' => 'Revised Edition',
+        '4ED' => 'Fourth Edition',
         '7ED' => '7E',
         'APC' => 'AP',
         'EXO' => 'EX',
