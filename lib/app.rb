@@ -1,4 +1,4 @@
-Dir.glob('./lib/*.rb') { |f| require f }
+require './lib/mtg'
 
 module Mtg
   class App
@@ -29,4 +29,4 @@ module Mtg
   end
 end
 
-Mtg::App.run
+Mtg::App.run unless ENV['test']

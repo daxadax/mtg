@@ -12,7 +12,7 @@ module Mtg
       @cmc = attributes['cmc'].to_i
       @colors = attributes['colors']
       @cost = attributes['cost']
-      @is_foil = attributes['is_foil']
+      @is_foil = attributes['is_foil'].downcase == 'true'
       @market_price = attributes['market_price'].to_f
       @multiverse_id = attributes['multiverse_id']
       @quantity = attributes['quantity'].to_i

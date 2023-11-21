@@ -7,8 +7,8 @@ module Mtg
       new.get_requested_sets(sets)
     end
 
-    def self.get_prices(sets)
-      new.get_prices(sets)
+    def self.get_card_price(multiverse_id, foil)
+      new.get_card_price(multiverse_id, foil)
     end
 
     def initialize
@@ -24,14 +24,15 @@ module Mtg
       end
     end
 
-    def get_prices(sets)
-      sets.inject(Hash.new) do |result, set_id|
-        pp "Fetching prices for set #{set_id}"
-        price_data = fetch(price_url(set_id))
-        foil_data = fetch(price_url(set_id, foil: true))
+    def get_card_price(multiverse_id, foil)
+      begin
+        data = JSON.parse(fetch(price_url(multiverse_id)))
+        price_key = foil ? 'usd_foil' : 'usd'
 
-        result[set_id] = MtgGoldfishPriceConverter.convert(set_id, price_data, foil_data)
-        result
+        data['prices'][price_key]
+      rescue JSON::ParserError
+        p "RESCUING ERROR IN CARD WITH MULTIVERSE ID #{multiverse_id} #{foil ? 'foil' : nil}"
+        return 0
       end
     end
 
@@ -45,33 +46,8 @@ module Mtg
       "https://mtgjson.com/api/v5/#{set_id}.json"
     end
 
-    def price_url(set_id, foil: false)
-      goldfish_set_id = goldfish_sets.fetch(set_id) { set_id }
-      "https://www.mtggoldfish.com/price/#{goldfish_set_id}#{"_F" if foil}#paper"
-    end
-
-    def goldfish_sets
-      {
-        '3ED' => 'Revised Edition',
-        '4ED' => 'Fourth Edition',
-        '7ED' => '7E',
-        'APC' => 'AP',
-        'EXO' => 'EX',
-        'INV' => 'IN',
-        'MIR' => 'MI',
-        'MMQ' => 'MM',
-        'NMS' => 'NE',
-        'ODY' => 'OD',
-        'PCY' => 'PR',
-        'PLS' => 'PS',
-        'STH' => 'ST',
-        'TMP' => 'TE',
-        'UDS' => 'UD',
-        'ULG' => 'UL',
-        'USG' => 'UZ',
-        'VIS' => 'VI',
-        'WTH' => 'WL'
-      }
+    def price_url(multiverse_id)
+      "https://api.scryfall.com/cards/multiverse/#{multiverse_id}"
     end
   end
 end
